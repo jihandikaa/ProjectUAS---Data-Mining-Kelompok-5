@@ -1,0 +1,1760 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-12-29">
+    <creator>NetworkX 2.8.8</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="idextratime" label="idextratime" />
+      <node id="58o94" label="58o94" />
+      <node id="harus_kamutahu" label="harus_kamutahu" />
+      <node id="gusyusufchannel" label="gusyusufchannel" />
+      <node id="abuv_average88" label="abuv_average88" />
+      <node id="martinandrian_" label="martinandrian_" />
+      <node id="nuyuy_yups" label="nuyuy_yups" />
+      <node id="izhy_fly" label="izhy_fly" />
+      <node id="panji_sdqi" label="panji_sdqi" />
+      <node id="ivooxid" label="ivooxid" />
+      <node id="meyvarizqia7_" label="meyvarizqia7_" />
+      <node id="alviadty" label="alviadty" />
+      <node id="pikiran_rakyat" label="pikiran_rakyat" />
+      <node id="detikforum" label="detikforum" />
+      <node id="medioclubid" label="medioclubid" />
+      <node id="okezonenews" label="okezonenews" />
+      <node id="mableo1brien" label="mableo1brien" />
+      <node id="mojokdotco" label="mojokdotco" />
+      <node id="oke_zone" label="oke_zone" />
+      <node id="startingsportid" label="startingsportid" />
+      <node id="gerakanpis" label="gerakanpis" />
+      <node id="bolasinganew" label="bolasinganew" />
+      <node id="kabarbanten72" label="kabarbanten72" />
+      <node id="beritabaruco" label="beritabaruco" />
+      <node id="risaadanya" label="risaadanya" />
+      <node id="nazwaa02115657" label="nazwaa02115657" />
+      <node id="ocepyosep" label="ocepyosep" />
+      <node id="vivabola" label="vivabola" />
+      <node id="themerdekatimes" label="themerdekatimes" />
+      <node id="asrabasa" label="asrabasa" />
+      <node id="nabiladestiani3" label="nabiladestiani3" />
+      <node id="opanshippuden" label="opanshippuden" />
+      <node id="bolaskorcom" label="bolaskorcom" />
+      <node id="penariauco" label="penariauco" />
+      <node id="iam_dioo" label="iam_dioo" />
+      <node id="gijnindonesia" label="gijnindonesia" />
+      <node id="duniabolasepakm" label="duniabolasepakm" />
+      <node id="nekopoi_indo" label="nekopoi_indo" />
+      <node id="liputan6dotcom" label="liputan6dotcom" />
+      <node id="mycity_view" label="mycity_view" />
+      <node id="awaliah03_99222" label="awaliah03_99222" />
+      <node id="de_liput" label="de_liput" />
+      <node id="kharismasang" label="kharismasang" />
+      <node id="idsinpo" label="idsinpo" />
+      <node id="terasjabar_" label="terasjabar_" />
+      <node id="inilahdotcom" label="inilahdotcom" />
+      <node id="sekrefast_usim" label="sekrefast_usim" />
+      <node id="liiamonday" label="liiamonday" />
+      <node id="aamirmisra" label="aamirmisra" />
+      <node id="auisgrand" label="auisgrand" />
+      <node id="kompasdata" label="kompasdata" />
+      <node id="hariankompas" label="hariankompas" />
+      <node id="btstxtkhh" label="btstxtkhh" />
+      <node id="mariasukakeju1" label="mariasukakeju1" />
+      <node id="siaranbolalive" label="siaranbolalive" />
+      <node id="playnet88online" label="playnet88online" />
+      <node id="tauberitamedia" label="tauberitamedia" />
+      <node id="kripto11indo" label="kripto11indo" />
+      <node id="kopi_ajah" label="kopi_ajah" />
+      <node id="pinterpolitik" label="pinterpolitik" />
+      <node id="sft99choiarin" label="sft99choiarin" />
+      <node id="sumsel_rmol" label="sumsel_rmol" />
+      <node id="rikagami1" label="rikagami1" />
+      <node id="atangsuhendi3" label="atangsuhendi3" />
+      <node id="tempodotco" label="tempodotco" />
+      <node id="rmoljatim_id" label="rmoljatim_id" />
+      <node id="manutdtimesid" label="manutdtimesid" />
+      <node id="haluankepri_" label="haluankepri_" />
+      <node id="salingkamedia" label="salingkamedia" />
+      <node id="_together___" label="_together___" />
+      <node id="kanalperspektif" label="kanalperspektif" />
+      <node id="saprudin_park" label="saprudin_park" />
+      <node id="bolasportcom" label="bolasportcom" />
+      <node id="tribunsuperball" label="tribunsuperball" />
+      <node id="cainsawman1" label="cainsawman1" />
+      <node id="gta5_android" label="gta5_android" />
+      <node id="maciregar" label="maciregar" />
+      <node id="hermawanadicand" label="hermawanadicand" />
+      <node id="yoppie93" label="yoppie93" />
+      <node id="indozonemedia" label="indozonemedia" />
+      <node id="cuteyuza" label="cuteyuza" />
+      <node id="pujaginting1" label="pujaginting1" />
+      <node id="teluniversity" label="teluniversity" />
+      <node id="fantasista_id" label="fantasista_id" />
+      <node id="detik_jateng" label="detik_jateng" />
+      <node id="cupeipei" label="cupeipei" />
+      <node id="maniakbola8" label="maniakbola8" />
+      <node id="_____r__baraas" label="_____r__baraas" />
+      <node id="korangala" label="korangala" />
+      <node id="rtoslot88" label="rtoslot88" />
+      <node id="sportalavista" label="sportalavista" />
+      <node id="ferizandra" label="ferizandra" />
+      <node id="kompasiana" label="kompasiana" />
+      <node id="lintas_mnctv" label="lintas_mnctv" />
+      <node id="lutfimaulanaof1" label="lutfimaulanaof1" />
+      <node id="detikinet" label="detikinet" />
+      <node id="mediansports" label="mediansports" />
+      <node id="inewsdotid" label="inewsdotid" />
+      <node id="aktualkan" label="aktualkan" />
+      <node id="inewsbekasi" label="inewsbekasi" />
+      <node id="sinaronline" label="sinaronline" />
+      <node id="fantatistanew" label="fantatistanew" />
+      <node id="sportlineidn" label="sportlineidn" />
+      <node id="slotgacorupdate" label="slotgacorupdate" />
+      <node id="aliyahsundarid" label="aliyahsundarid" />
+      <node id="astika_123" label="astika_123" />
+      <node id="goal_id" label="goal_id" />
+      <node id="hokibet_id" label="hokibet_id" />
+      <node id="catchplayplusid" label="catchplayplusid" />
+      <node id="box2boxbola" label="box2boxbola" />
+      <node id="beinsportsid" label="beinsportsid" />
+      <node id="notaboutslyther" label="notaboutslyther" />
+      <node id="vivacoid" label="vivacoid" />
+      <node id="kevin_vin100" label="kevin_vin100" />
+      <node id="bacalagersmedia" label="bacalagersmedia" />
+      <node id="bugsbuddy71" label="bugsbuddy71" />
+      <node id="infoseriyes" label="infoseriyes" />
+      <node id="prast_lampard" label="prast_lampard" />
+      <node id="officialntv_" label="officialntv_" />
+      <node id="suaramerdeka" label="suaramerdeka" />
+      <node id="minanews_net" label="minanews_net" />
+      <node id="bbgchoe" label="bbgchoe" />
+      <node id="carakita93" label="carakita93" />
+      <node id="afebyriana" label="afebyriana" />
+      <node id="wolipop" label="wolipop" />
+      <node id="radarsportsid" label="radarsportsid" />
+      <node id="husainabdullah1" label="husainabdullah1" />
+      <node id="khhrnbsub" label="khhrnbsub" />
+      <node id="bolacomid" label="bolacomid" />
+      <node id="teras_medianet" label="teras_medianet" />
+      <node id="faktasepakbola" label="faktasepakbola" />
+      <node id="backup_jean" label="backup_jean" />
+      <node id="mhilman98" label="mhilman98" />
+      <node id="smnnone" label="smnnone" />
+      <node id="wahyususilo" label="wahyususilo" />
+      <node id="ekingsnews" label="ekingsnews" />
+      <node id="serambinews" label="serambinews" />
+      <node id="kumparan" label="kumparan" />
+      <node id="vice_id" label="vice_id" />
+      <node id="antmegapolitan" label="antmegapolitan" />
+      <node id="eucupdotcom" label="eucupdotcom" />
+      <node id="fairuzfz29" label="fairuzfz29" />
+      <node id="slotasiabet" label="slotasiabet" />
+      <node id="dsetia_" label="dsetia_" />
+      <node id="pepeppermana" label="pepeppermana" />
+      <node id="mainmainid_" label="mainmainid_" />
+      <node id="fajaronline" label="fajaronline" />
+      <node id="amkbangi" label="amkbangi" />
+      <node id="yomeh9" label="yomeh9" />
+      <node id="andreanabdrhmn" label="andreanabdrhmn" />
+      <node id="beritajatimcom" label="beritajatimcom" />
+      <node id="detikcom" label="detikcom" />
+      <node id="idntimes" label="idntimes" />
+      <node id="adnan_lakoro" label="adnan_lakoro" />
+      <node id="wahananewsdotco" label="wahananewsdotco" />
+      <node id="detiksport" label="detiksport" />
+      <node id="adliazman__" label="adliazman__" />
+      <node id="idn_app" label="idn_app" />
+      <node id="kantorbola88" label="kantorbola88" />
+      <node id="neunoia47" label="neunoia47" />
+      <node id="txtcaricuan" label="txtcaricuan" />
+      <node id="jjkindonesia" label="jjkindonesia" />
+      <node id="azyshumaniz" label="azyshumaniz" />
+      <node id="revmen_id" label="revmen_id" />
+      <node id="antaramakassar" label="antaramakassar" />
+      <node id="nguyent02728050" label="nguyent02728050" />
+      <node id="rizieqfirmansy" label="rizieqfirmansy" />
+      <node id="longzonbola" label="longzonbola" />
+      <node id="official90bola" label="official90bola" />
+      <node id="beritakeren2015" label="beritakeren2015" />
+      <node id="officialmncnews" label="officialmncnews" />
+      <node id="bolboleleven" label="bolboleleven" />
+      <node id="inilahkorancom" label="inilahkorancom" />
+      <node id="finsensare" label="finsensare" />
+      <node id="qintsah" label="qintsah" />
+      <node id="bharianmy" label="bharianmy" />
+      <node id="sangbiruhitam" label="sangbiruhitam" />
+      <node id="mhsamsulhadi" label="mhsamsulhadi" />
+      <node id="stevenbrahma" label="stevenbrahma" />
+      <node id="iwansalimm" label="iwansalimm" />
+      <node id="zoelfick" label="zoelfick" />
+      <node id="jbh84x" label="jbh84x" />
+      <node id="indonesiaindoha" label="indonesiaindoha" />
+      <node id="udinkladoko" label="udinkladoko" />
+      <node id="adhitya_pr18" label="adhitya_pr18" />
+      <node id="whojeann" label="whojeann" />
+      <node id="fahmy_sfpohan" label="fahmy_sfpohan" />
+      <node id="situstos885" label="situstos885" />
+      <node id="maklumat_media" label="maklumat_media" />
+      <node id="ngopibareng_id" label="ngopibareng_id" />
+      <node id="pahrimenang" label="pahrimenang" />
+      <node id="subur88_ofc" label="subur88_ofc" />
+      <node id="otaku_anime_ind" label="otaku_anime_ind" />
+      <node id="sinarplus" label="sinarplus" />
+      <node id="lazanoorca" label="lazanoorca" />
+      <node id="wanscahmams" label="wanscahmams" />
+      <node id="edy39183778" label="edy39183778" />
+      <node id="sumbubotol" label="sumbubotol" />
+      <node id="harnadidw" label="harnadidw" />
+      <node id="fakrulr38994657" label="fakrulr38994657" />
+      <node id="didienazhar" label="didienazhar" />
+      <node id="indonesiatiento" label="indonesiatiento" />
+      <node id="prediktorbolaa" label="prediktorbolaa" />
+      <node id="nfrizkaa1" label="nfrizkaa1" />
+      <node id="makbun12" label="makbun12" />
+      <node id="umonline" label="umonline" />
+      <node id="hairul2003" label="hairul2003" />
+      <node id="mantanpegawaipt" label="mantanpegawaipt" />
+      <node id="enterslots" label="enterslots" />
+      <node id="ybaindonesia" label="ybaindonesia" />
+      <node id="nyehpong" label="nyehpong" />
+      <node id="tvpertiwi_my" label="tvpertiwi_my" />
+      <node id="bolavita" label="bolavita" />
+      <node id="johnysibuea" label="johnysibuea" />
+      <node id="hmetromy" label="hmetromy" />
+      <node id="bernamaradio" label="bernamaradio" />
+      <node id="bernamatv" label="bernamatv" />
+      <node id="bernamadotcom" label="bernamadotcom" />
+      <node id="ismaweb_net" label="ismaweb_net" />
+      <node id="21beritaterkini" label="21beritaterkini" />
+      <node id="infokespro" label="infokespro" />
+      <node id="cupangmerah7" label="cupangmerah7" />
+      <node id="rastysantrindo" label="rastysantrindo" />
+      <node id="garistengah_id" label="garistengah_id" />
+      <node id="bolanet" label="bolanet" />
+      <node id="blay_unswag" label="blay_unswag" />
+      <node id="sbotopid" label="sbotopid" />
+      <node id="ifyou_611" label="ifyou_611" />
+      <node id="mediaindonesia" label="mediaindonesia" />
+      <node id="kasanmulyono" label="kasanmulyono" />
+      <node id="sportstarsdotid" label="sportstarsdotid" />
+      <node id="lupimaharani" label="lupimaharani" />
+      <node id="malacookies_bpp" label="malacookies_bpp" />
+      <node id="ninnaid" label="ninnaid" />
+      <node id="simatupangparda" label="simatupangparda" />
+      <node id="fahadalmafakir" label="fahadalmafakir" />
+      <node id="fimeladotcom" label="fimeladotcom" />
+      <node id="mhmmdgiffary100" label="mhmmdgiffary100" />
+      <node id="mrbekalicky89" label="mrbekalicky89" />
+      <node id="alkatirikenzha" label="alkatirikenzha" />
+      <node id="ndnurizki" label="ndnurizki" />
+      <node id="indo_dailynet" label="indo_dailynet" />
+      <node id="dppbmiofc" label="dppbmiofc" />
+      <node id="cekfaktacom" label="cekfaktacom" />
+      <node id="technologueid" label="technologueid" />
+      <node id="mukhlisny" label="mukhlisny" />
+      <node id="dayakdaily" label="dayakdaily" />
+      <node id="arfanaprilday" label="arfanaprilday" />
+      <node id="ujangboy221" label="ujangboy221" />
+      <node id="tribunmedan" label="tribunmedan" />
+      <node id="ahdn_" label="ahdn_" />
+      <node id="setpiecer" label="setpiecer" />
+      <node id="terkinidotid" label="terkinidotid" />
+      <node id="ben3atha" label="ben3atha" />
+      <node id="indiffscom" label="indiffscom" />
+      <node id="indihomeriau" label="indihomeriau" />
+      <node id="kompasmuda" label="kompasmuda" />
+      <node id="chinzlast" label="chinzlast" />
+      <node id="remotivi" label="remotivi" />
+      <node id="edwinslot_" label="edwinslot_" />
+      <node id="ug_bemfti" label="ug_bemfti" />
+      <node id="evavpos" label="evavpos" />
+      <node id="staradio1073" label="staradio1073" />
+      <node id="wastambin" label="wastambin" />
+      <node id="7betagentsid" label="7betagentsid" />
+      <node id="lrtjabodebek" label="lrtjabodebek" />
+      <node id="merdekadotcom" label="merdekadotcom" />
+      <node id="arwidodo" label="arwidodo" />
+      <node id="suaradotcom" label="suaradotcom" />
+      <node id="motodewocom" label="motodewocom" />
+      <node id="narutookunnn" label="narutookunnn" />
+      <node id="andalpost" label="andalpost" />
+      <node id="mariokemes" label="mariokemes" />
+      <node id="fpks_depok" label="fpks_depok" />
+      <node id="penerbitfandom" label="penerbitfandom" />
+      <node id="kompasbola" label="kompasbola" />
+      <node id="ard12_" label="ard12_" />
+      <node id="revonugroho" label="revonugroho" />
+      <node id="jampsamalpi" label="jampsamalpi" />
+      <node id="waste4change" label="waste4change" />
+      <node id="hamimpashter" label="hamimpashter" />
+      <node id="id_korek" label="id_korek" />
+      <node id="richardwps" label="richardwps" />
+      <node id="realmadridindo1" label="realmadridindo1" />
+      <node id="ariffinlo" label="ariffinlo" />
+      <node id="difattbonny" label="difattbonny" />
+      <node id="m303bet" label="m303bet" />
+      <node id="episciareptana" label="episciareptana" />
+      <node id="bolanusantaraid" label="bolanusantaraid" />
+      <node id="jamburek" label="jamburek" />
+      <node id="ikmalkhoiri93" label="ikmalkhoiri93" />
+      <node id="arikamedia" label="arikamedia" />
+      <node id="ladiestoryid" label="ladiestoryid" />
+      <node id="newsjerami" label="newsjerami" />
+      <node id="ariyo_id" label="ariyo_id" />
+      <node id="a_daud_ppnp" label="a_daud_ppnp" />
+      <node id="solarkitatech" label="solarkitatech" />
+      <node id="updatebalii" label="updatebalii" />
+      <node id="sireyogesh" label="sireyogesh" />
+      <node id="sport77official" label="sport77official" />
+      <node id="duniakitatv1" label="duniakitatv1" />
+      <node id="g24golkarsulut" label="g24golkarsulut" />
+      <node id="ariefpost" label="ariefpost" />
+      <node id="wildanjfirdaus" label="wildanjfirdaus" />
+      <node id="wawwwank" label="wawwwank" />
+      <node id="silentmannn1" label="silentmannn1" />
+      <node id="dailygemilang" label="dailygemilang" />
+      <node id="masadepantjerah" label="masadepantjerah" />
+      <node id="kilat_com" label="kilat_com" />
+      <node id="rifqymaz295" label="rifqymaz295" />
+      <node id="77577sports_idn" label="77577sports_idn" />
+      <node id="iyan_kh" label="iyan_kh" />
+      <node id="validnewsid" label="validnewsid" />
+      <node id="rama74963392" label="rama74963392" />
+      <node id="jogjacoret" label="jogjacoret" />
+      <node id="bolaacehid" label="bolaacehid" />
+      <node id="wjtodaycom" label="wjtodaycom" />
+      <node id="yudhaydh_" label="yudhaydh_" />
+      <node id="radartasik" label="radartasik" />
+      <node id="psgindonesia" label="psgindonesia" />
+      <node id="sport7trans7" label="sport7trans7" />
+      <node id="layarnews_" label="layarnews_" />
+      <node id="derasdotid" label="derasdotid" />
+      <node id="indihomejtd" label="indihomejtd" />
+      <node id="arenanews1" label="arenanews1" />
+      <node id="kopimanisyo" label="kopimanisyo" />
+      <node id="hidupppps" label="hidupppps" />
+      <node id="suaradewankita" label="suaradewankita" />
+      <node id="noushafarin1010" label="noushafarin1010" />
+      <node id="ardi_riau5" label="ardi_riau5" />
+      <node id="buletintv3" label="buletintv3" />
+      <node id="aboutmalangcom" label="aboutmalangcom" />
+      <node id="al_almulthaf" label="al_almulthaf" />
+      <node id="casamilanid" label="casamilanid" />
+      <node id="koerniawanr02" label="koerniawanr02" />
+      <node id="setiajayatoyota" label="setiajayatoyota" />
+      <node id="radikfm_ums" label="radikfm_ums" />
+      <node id="golkarpedia" label="golkarpedia" />
+      <node id="nusabalicom" label="nusabalicom" />
+      <node id="jennife93282124" label="jennife93282124" />
+      <node id="kapanlagicom" label="kapanlagicom" />
+      <node id="disway_id" label="disway_id" />
+      <node id="soulofjakartaid" label="soulofjakartaid" />
+      <node id="yoelismjuntak11" label="yoelismjuntak11" />
+      <node id="rian_k74" label="rian_k74" />
+      <node id="emasbet365" label="emasbet365" />
+      <node id="republikaonline" label="republikaonline" />
+      <node id="voidotid" label="voidotid" />
+      <node id="azhimse" label="azhimse" />
+      <node id="zhordha_" label="zhordha_" />
+      <node id="tribunnewswiki" label="tribunnewswiki" />
+      <node id="pandachid" label="pandachid" />
+      <node id="faniaputri0801" label="faniaputri0801" />
+      <node id="jpnncom" label="jpnncom" />
+      <node id="mutiarachan868" label="mutiarachan868" />
+      <node id="de_iphan" label="de_iphan" />
+      <node id="arif_rhakim" label="arif_rhakim" />
+      <node id="infopunya" label="infopunya" />
+      <node id="livescore168" label="livescore168" />
+      <node id="newsportal0" label="newsportal0" />
+      <node id="larismi11" label="larismi11" />
+      <node id="jbmulyad1" label="jbmulyad1" />
+      <node id="mmnr__" label="mmnr__" />
+      <node id="fizasiregar" label="fizasiregar" />
+      <node id="rikisya36034558" label="rikisya36034558" />
+      <node id="rihanaaas" label="rihanaaas" />
+      <node id="yuriendah" label="yuriendah" />
+      <node id="haritsenin" label="haritsenin" />
+      <node id="ayisaidah12" label="ayisaidah12" />
+      <node id="ujangsetempat" label="ujangsetempat" />
+      <node id="putrapr83637344" label="putrapr83637344" />
+      <node id="1nserttranstv" label="1nserttranstv" />
+      <node id="murvxx" label="murvxx" />
+      <node id="kecamatanr" label="kecamatanr" />
+      <node id="berjayanews" label="berjayanews" />
+      <node id="nogoal_studio" label="nogoal_studio" />
+      <node id="farwalis" label="farwalis" />
+      <node id="tuitpalembang" label="tuitpalembang" />
+      <node id="infocimahico" label="infocimahico" />
+      <node id="ceritacantikcom" label="ceritacantikcom" />
+      <node id="dw_indonesia" label="dw_indonesia" />
+      <node id="sborobot" label="sborobot" />
+      <node id="egaskalit" label="egaskalit" />
+      <node id="akmalllmaulana" label="akmalllmaulana" />
+      <node id="fitri07348799" label="fitri07348799" />
+      <node id="medianekita" label="medianekita" />
+      <node id="_nusantaraku" label="_nusantaraku" />
+      <node id="semarakredaksi" label="semarakredaksi" />
+      <node id="r88slot" label="r88slot" />
+      <node id="satriasiber" label="satriasiber" />
+      <node id="officialsgtoto" label="officialsgtoto" />
+      <node id="bwinsandi3" label="bwinsandi3" />
+      <node id="golkar24kaltara" label="golkar24kaltara" />
+      <node id="suporterfc" label="suporterfc" />
+      <node id="pedooli_id" label="pedooli_id" />
+      <node id="bisniscom" label="bisniscom" />
+      <node id="gamewinslot" label="gamewinslot" />
+      <node id="dppbmi" label="dppbmi" />
+      <node id="pdrmsia" label="pdrmsia" />
+      <node id="ibnumubarak00" label="ibnumubarak00" />
+      <node id="g24golkarbabel" label="g24golkarbabel" />
+      <node id="04iqbalramadhan" label="04iqbalramadhan" />
+      <node id="golkar2024jambi" label="golkar2024jambi" />
+      <node id="golkar2024kepri" label="golkar2024kepri" />
+      <node id="vivaborneoc" label="vivaborneoc" />
+      <node id="golkar2024riau" label="golkar2024riau" />
+      <node id="dianurindra" label="dianurindra" />
+      <node id="garudafood_id" label="garudafood_id" />
+      <node id="yahyamuh778" label="yahyamuh778" />
+      <node id="officialinewstv" label="officialinewstv" />
+      <node id="muhamma47935224" label="muhamma47935224" />
+      <node id="achdhofirzuhry" label="achdhofirzuhry" />
+      <node id="suarapembaruan" label="suarapembaruan" />
+      <node id="anitaanwar_" label="anitaanwar_" />
+      <node id="mr_maheswara" label="mr_maheswara" />
+      <node id="rasputinyon" label="rasputinyon" />
+      <node id="markesso8" label="markesso8" />
+      <node id="milenialsuaraa" label="milenialsuaraa" />
+      <node id="nawacita_post" label="nawacita_post" />
+      <node id="xtrada_2004" label="xtrada_2004" />
+      <node id="trueworldee" label="trueworldee" />
+      <node id="ratnowistu" label="ratnowistu" />
+      <node id="sopirmikro" label="sopirmikro" />
+      <node id="twit_artis" label="twit_artis" />
+      <node id="lisman195" label="lisman195" />
+      <node id="urpa9ex" label="urpa9ex" />
+      <node id="g24bengkulu" label="g24bengkulu" />
+      <node id="arthurrevees" label="arthurrevees" />
+      <node id="cnnindonesia" label="cnnindonesia" />
+      <node id="kaka01175473" label="kaka01175473" />
+      <node id="ngindonesia" label="ngindonesia" />
+      <node id="sporta_id" label="sporta_id" />
+      <node id="tatatengah" label="tatatengah" />
+      <node id="maulatv" label="maulatv" />
+      <node id="yoursay_id" label="yoursay_id" />
+      <node id="tribunbalikanal" label="tribunbalikanal" />
+      <node id="arenisdt" label="arenisdt" />
+      <node id="id_indicator" label="id_indicator" />
+      <node id="antaranews" label="antaranews" />
+      <node id="theaceh_post" label="theaceh_post" />
+      <node id="bubblegum__tech" label="bubblegum__tech" />
+      <node id="abi_sasall" label="abi_sasall" />
+      <node id="txtdarihi" label="txtdarihi" />
+      <node id="vendra_deje" label="vendra_deje" />
+      <node id="erwinmalkomf" label="erwinmalkomf" />
+      <node id="benyzamrony" label="benyzamrony" />
+      <node id="supri_nano15" label="supri_nano15" />
+      <node id="farelrifai" label="farelrifai" />
+      <node id="lukmana232380" label="lukmana232380" />
+      <node id="kumham_sulbar" label="kumham_sulbar" />
+      <node id="moge08" label="moge08" />
+      <node id="mediadigitalcpp" label="mediadigitalcpp" />
+      <node id="g24lampung" label="g24lampung" />
+      <node id="vivacoidbandung" label="vivacoidbandung" />
+      <node id="ceklissatucom" label="ceklissatucom" />
+      <node id="ararosokhilase" label="ararosokhilase" />
+      <node id="gelang_alit2" label="gelang_alit2" />
+      <node id="g24golkarsultra" label="g24golkarsultra" />
+      <node id="kompascom" label="kompascom" />
+      <node id="kariage_soul" label="kariage_soul" />
+      <node id="aisyahnrl2" label="aisyahnrl2" />
+      <node id="info_jakarta" label="info_jakarta" />
+      <node id="gery_nasan" label="gery_nasan" />
+      <node id="atmokoarif" label="atmokoarif" />
+      <node id="semua4da" label="semua4da" />
+      <node id="terascitamiang" label="terascitamiang" />
+      <node id="tripiaid" label="tripiaid" />
+      <node id="the_redsindo" label="the_redsindo" />
+      <node id="buddykuofficial" label="buddykuofficial" />
+      <node id="katakinidotcom" label="katakinidotcom" />
+      <node id="irwanba64242854" label="irwanba64242854" />
+      <node id="sniperdroen_" label="sniperdroen_" />
+      <node id="kharisma700" label="kharisma700" />
+      <node id="sinyalmagz" label="sinyalmagz" />
+      <node id="rutanpasangkayu" label="rutanpasangkayu" />
+      <node id="irfan54533269" label="irfan54533269" />
+      <node id="floucloud" label="floucloud" />
+      <node id="selangorfm_rtm" label="selangorfm_rtm" />
+      <node id="bravaradio" label="bravaradio" />
+      <node id="gaganginanjar" label="gaganginanjar" />
+      <node id="nesiaslotonline" label="nesiaslotonline" />
+      <node id="vpshopid" label="vpshopid" />
+      <node id="rebecafortuna2" label="rebecafortuna2" />
+      <node id="infosuporterid" label="infosuporterid" />
+      <node id="_jktkops" label="_jktkops" />
+      <node id="gorajuara" label="gorajuara" />
+      <node id="catchmeupid" label="catchmeupid" />
+      <node id="djantjik" label="djantjik" />
+      <node id="negerifm" label="negerifm" />
+      <node id="melakafm" label="melakafm" />
+      <node id="knrpofficial" label="knrpofficial" />
+      <node id="ubaywasta" label="ubaywasta" />
+      <node id="ibnuhaj26560457" label="ibnuhaj26560457" />
+      <node id="jbsnmelaka" label="jbsnmelaka" />
+      <node id="indosportdotcom" label="indosportdotcom" />
+      <node id="tribuntravel" label="tribuntravel" />
+      <node id="epsetdahh" label="epsetdahh" />
+      <node id="rtmlangkawifm" label="rtmlangkawifm" />
+      <node id="diditharianto" label="diditharianto" />
+      <node id="beritartm" label="beritartm" />
+      <node id="indosiar" label="indosiar" />
+      <node id="liriksoe" label="liriksoe" />
+      <node id="riau24com" label="riau24com" />
+      <node id="mpon_mponn" label="mpon_mponn" />
+      <node id="nusadailycom" label="nusadailycom" />
+      <node id="daenglalo" label="daenglalo" />
+      <node id="bam13ang" label="bam13ang" />
+      <node id="timescoid" label="timescoid" />
+      <node id="ryan_epm" label="ryan_epm" />
+      <node id="celebdotid" label="celebdotid" />
+      <node id="bangipalestin" label="bangipalestin" />
+      <node id="zhymme" label="zhymme" />
+      <node id="danuvoxpp" label="danuvoxpp" />
+      <node id="economiczone_id" label="economiczone_id" />
+      <node id="amp_stories" label="amp_stories" />
+      <node id="slot_bantai777" label="slot_bantai777" />
+      <node id="hypeabisid" label="hypeabisid" />
+      <node id="sctv" label="sctv" />
+      <node id="win368_official" label="win368_official" />
+      <node id="bvoice_radio" label="bvoice_radio" />
+      <node id="ragamindones1a" label="ragamindones1a" />
+      <node id="detik_jabar" label="detik_jabar" />
+      <node id="gadisnkri_" label="gadisnkri_" />
+      <node id="dido_fr" label="dido_fr" />
+      <node id="20detik" label="20detik" />
+      <node id="kabarjogosatru" label="kabarjogosatru" />
+      <node id="digitalperak" label="digitalperak" />
+      <node id="vanandarahadika" label="vanandarahadika" />
+      <node id="malayantigerfan" label="malayantigerfan" />
+      <node id="alhasanin862" label="alhasanin862" />
+      <node id="nongkrong_gaul" label="nongkrong_gaul" />
+      <node id="kenalifakta" label="kenalifakta" />
+      <node id="medan_sib" label="medan_sib" />
+      <node id="tratambah" label="tratambah" />
+      <node id="lazione_budy" label="lazione_budy" />
+      <node id="mcholidi89" label="mcholidi89" />
+      <node id="maseyaann" label="maseyaann" />
+      <node id="ahmadgaus" label="ahmadgaus" />
+      <node id="sipalingjuara" label="sipalingjuara" />
+      <node id="ibnupurna" label="ibnupurna" />
+      <node id="pantaumancity" label="pantaumancity" />
+      <node id="ligabintang_web" label="ligabintang_web" />
+      <node id="sharenewsaceh" label="sharenewsaceh" />
+      <node id="nusatimesid" label="nusatimesid" />
+      <node id="rripro1ternate" label="rripro1ternate" />
+      <node id="ferdiwi03246112" label="ferdiwi03246112" />
+      <node id="cctvtongkrongan" label="cctvtongkrongan" />
+      <node id="xgray1889" label="xgray1889" />
+      <node id="duniaku_com" label="duniaku_com" />
+      <node id="sisiliar4" label="sisiliar4" />
+      <node id="tryooctavian15" label="tryooctavian15" />
+      <node id="jaelani43682798" label="jaelani43682798" />
+      <node id="emqynx" label="emqynx" />
+      <node id="kalakaraaa" label="kalakaraaa" />
+      <node id="banyuasin16" label="banyuasin16" />
+      <node id="beritakarsa" label="beritakarsa" />
+      <node id="nanajem172" label="nanajem172" />
+      <node id="murianewscom" label="murianewscom" />
+      <node id="anandaariwibawa" label="anandaariwibawa" />
+      <node id="travelingkop" label="travelingkop" />
+      <node id="gaspol_in" label="gaspol_in" />
+      <node id="radaraktual" label="radaraktual" />
+      <node id="arlarlaro1968" label="arlarlaro1968" />
+      <node id="salmanbelajar" label="salmanbelajar" />
+      <node id="panturaterkini" label="panturaterkini" />
+      <node id="jabar24jam" label="jabar24jam" />
+      <node id="zonasubang" label="zonasubang" />
+      <node id="tintahijaucom" label="tintahijaucom" />
+      <node id="casiiiaz" label="casiiiaz" />
+      <node id="riefformation" label="riefformation" />
+      <node id="afifbahardin" label="afifbahardin" />
+      <node id="hafiz_halim12" label="hafiz_halim12" />
+      <node id="maitehcom" label="maitehcom" />
+      <node id="marcel20032338" label="marcel20032338" />
+      <node id="terpercayasens2" label="terpercayasens2" />
+      <node id="sensasiwinwin" label="sensasiwinwin" />
+      <node id="primevideoid" label="primevideoid" />
+      <node id="soal_bola" label="soal_bola" />
+      <node id="yohanesnicolau7" label="yohanesnicolau7" />
+      <node id="news_wanheart" label="news_wanheart" />
+      <node id="jamaluddin151" label="jamaluddin151" />
+      <node id="comofcindonesia" label="comofcindonesia" />
+      <node id="anzarra" label="anzarra" />
+      <node id="maafkan_ayahmu" label="maafkan_ayahmu" />
+      <node id="tweeelf" label="tweeelf" />
+      <node id="musniumar" label="musniumar" />
+      <node id="dicintaimedia" label="dicintaimedia" />
+      <node id="androidseventy" label="androidseventy" />
+      <node id="kucingtiguling" label="kucingtiguling" />
+      <node id="junaditya86" label="junaditya86" />
+      <node id="antonprasetio65" label="antonprasetio65" />
+      <node id="kenzototo1" label="kenzototo1" />
+      <node id="dino_sutan" label="dino_sutan" />
+      <node id="nurulizzahk1" label="nurulizzahk1" />
+      <node id="emas168ofc" label="emas168ofc" />
+      <node id="fagaola" label="fagaola" />
+      <node id="koko_k4reem" label="koko_k4reem" />
+      <node id="ekbistangsel" label="ekbistangsel" />
+      <node id="dieksetyadhi" label="dieksetyadhi" />
+      <node id="uchiedandi" label="uchiedandi" />
+      <node id="yara60909" label="yara60909" />
+      <node id="kissfmjember" label="kissfmjember" />
+      <node id="falkonindo" label="falkonindo" />
+      <node id="cuddle_gurun" label="cuddle_gurun" />
+      <node id="asimetris_media" label="asimetris_media" />
+      <node id="thecrazywave" label="thecrazywave" />
+      <node id="tribunjateng" label="tribunjateng" />
+      <node id="mediakonteks" label="mediakonteks" />
+      <node id="alonesiacom" label="alonesiacom" />
+      <node id="anothermissoh" label="anothermissoh" />
+      <node id="oposisicerdas" label="oposisicerdas" />
+      <node id="bsi_jtw" label="bsi_jtw" />
+      <node id="geloraco" label="geloraco" />
+      <node id="eddie_toyota" label="eddie_toyota" />
+      <node id="bsi_dewisartika" label="bsi_dewisartika" />
+      <node id="detikhot" label="detikhot" />
+      <node id="syokpodcast" label="syokpodcast" />
+      <node id="slot138_offcl" label="slot138_offcl" />
+      <node id="mohamadainul1" label="mohamadainul1" />
+      <node id="sotobuaya" label="sotobuaya" />
+      <node id="aminbudiutom0" label="aminbudiutom0" />
+      <node id="ohhrilla" label="ohhrilla" />
+      <node id="bjengela" label="bjengela" />
+      <node id="andierilpeldi" label="andierilpeldi" />
+      <node id="amrullah_acho" label="amrullah_acho" />
+      <node id="aihi_foral" label="aihi_foral" />
+      <node id="kalesangmedia" label="kalesangmedia" />
+      <node id="kepaargawinata2" label="kepaargawinata2" />
+      <node id="jembernetwork" label="jembernetwork" />
+      <node id="lensartv" label="lensartv" />
+      <node id="wisesa2024" label="wisesa2024" />
+      <node id="golkar24jatim" label="golkar24jatim" />
+      <node id="golkar24jateng" label="golkar24jateng" />
+      <node id="giantatik" label="giantatik" />
+      <node id="pontianakwarta" label="pontianakwarta" />
+      <node id="kompastv" label="kompastv" />
+      <node id="sabhatansabiz" label="sabhatansabiz" />
+      <node id="matamata_com" label="matamata_com" />
+      <node id="438ars" label="438ars" />
+      <node id="linikini_id" label="linikini_id" />
+      <node id="wartacakrawala" label="wartacakrawala" />
+      <node id="cnbcindonesia" label="cnbcindonesia" />
+      <node id="reallbastianv" label="reallbastianv" />
+      <node id="adatahredaksi" label="adatahredaksi" />
+      <node id="dyahnezza" label="dyahnezza" />
+      <node id="najazi731" label="najazi731" />
+      <node id="cakmemet78" label="cakmemet78" />
+      <node id="beritasimalung1" label="beritasimalung1" />
+      <node id="psim_culture29" label="psim_culture29" />
+      <node id="syauqiubaid13" label="syauqiubaid13" />
+      <node id="knpi_id" label="knpi_id" />
+      <node id="mohd__shahmi" label="mohd__shahmi" />
+      <node id="mykampusradio" label="mykampusradio" />
+      <node id="nawari21guns" label="nawari21guns" />
+      <node id="suzukisbamjogja" label="suzukisbamjogja" />
+      <node id="doneh" label="doneh" />
+      <node id="lostaine1" label="lostaine1" />
+      <node id="bsikarawang" label="bsikarawang" />
+      <node id="ruthmulugeta82" label="ruthmulugeta82" />
+      <node id="andarnubowo" label="andarnubowo" />
+      <node id="nabielnow" label="nabielnow" />
+      <node id="bangbajul1" label="bangbajul1" />
+      <node id="duniapucupu" label="duniapucupu" />
+      <node id="zigidotid" label="zigidotid" />
+      <node id="pheter_manek" label="pheter_manek" />
+      <node id="teraspurabaya" label="teraspurabaya" />
+      <node id="tweets_streams" label="tweets_streams" />
+      <node id="lovinuramr" label="lovinuramr" />
+      <node id="thephraseid" label="thephraseid" />
+      <node id="autobola" label="autobola" />
+      <node id="sultan_ied" label="sultan_ied" />
+      <node id="tempatngetweet" label="tempatngetweet" />
+      <node id="justinfogarut" label="justinfogarut" />
+      <node id="eradotid" label="eradotid" />
+      <node id="otodriver" label="otodriver" />
+      <node id="fokusmediaid" label="fokusmediaid" />
+      <node id="cover_both_side" label="cover_both_side" />
+      <node id="tvstvmy" label="tvstvmy" />
+      <node id="fahmiakbarami7" label="fahmiakbarami7" />
+      <node id="yamahamio1251" label="yamahamio1251" />
+      <node id="viralcrunchies" label="viralcrunchies" />
+      <node id="ararosokhi1" label="ararosokhi1" />
+      <node id="hidcom" label="hidcom" />
+      <node id="rmdnxyz" label="rmdnxyz" />
+      <node id="indoposco" label="indoposco" />
+      <node id="chmpo_agm75" label="chmpo_agm75" />
+      <node id="databoksid" label="databoksid" />
+      <node id="froshfm" label="froshfm" />
+      <node id="lpbanjarbaru" label="lpbanjarbaru" />
+      <node id="chwiminie_milov" label="chwiminie_milov" />
+      <node id="dimas_nasdem" label="dimas_nasdem" />
+      <node id="rangga987774908" label="rangga987774908" />
+      <node id="bungsuryam" label="bungsuryam" />
+      <node id="salmanitb" label="salmanitb" />
+      <node id="slowgan_" label="slowgan_" />
+      <node id="2dibukab" label="2dibukab" />
+      <node id="peristiwaliput" label="peristiwaliput" />
+      <node id="paragramberita" label="paragramberita" />
+      <node id="witeljambi" label="witeljambi" />
+      <node id="bukan_anitwt" label="bukan_anitwt" />
+      <node id="buletin_my" label="buletin_my" />
+      <node id="indobuzzfeed" label="indobuzzfeed" />
+      <node id="pemuda_depok" label="pemuda_depok" />
+      <node id="vemaledotcom" label="vemaledotcom" />
+      <node id="kucing_koceng" label="kucing_koceng" />
+      <node id="mancode_id" label="mancode_id" />
+      <node id="ampmbetcom" label="ampmbetcom" />
+      <node id="yunankingstar1" label="yunankingstar1" />
+      <node id="ind1xbet" label="ind1xbet" />
+      <node id="riyanardiansya" label="riyanardiansya" />
+      <node id="dwijayanto91" label="dwijayanto91" />
+      <node id="kartunoh" label="kartunoh" />
+      <node id="corpmasagi" label="corpmasagi" />
+      <node id="ruangbola_" label="ruangbola_" />
+      <node id="hi_gone" label="hi_gone" />
+      <node id="redaksidetail" label="redaksidetail" />
+      <node id="chanorinaldy" label="chanorinaldy" />
+      <node id="kodim_0503jb" label="kodim_0503jb" />
+      <node id="project_szr" label="project_szr" />
+      <node id="eksplisito" label="eksplisito" />
+      <node id="janganbaperyee" label="janganbaperyee" />
+      <node id="nunungwulanda16" label="nunungwulanda16" />
+      <node id="gadogado21" label="gadogado21" />
+      <node id="google_foto" label="google_foto" />
+      <node id="himawan_adrian" label="himawan_adrian" />
+      <node id="kdslots777" label="kdslots777" />
+      <node id="ayahfergie" label="ayahfergie" />
+      <node id="campaign_id" label="campaign_id" />
+      <node id="phandhekhok" label="phandhekhok" />
+      <node id="exomalaysia_" label="exomalaysia_" />
+      <node id="bajaktogel96" label="bajaktogel96" />
+      <node id="tribun_solo" label="tribun_solo" />
+      <node id="imsporttv" label="imsporttv" />
+      <node id="fortune_idn" label="fortune_idn" />
+      <node id="tengku1981" label="tengku1981" />
+      <node id="okeguysdotcom" label="okeguysdotcom" />
+      <node id="simanjunta9nico" label="simanjunta9nico" />
+      <node id="flonadayaang" label="flonadayaang" />
+      <node id="cerita_parapuan" label="cerita_parapuan" />
+      <node id="newswav" label="newswav" />
+      <node id="khzimani" label="khzimani" />
+      <node id="xyzyenn" label="xyzyenn" />
+      <node id="kou97ya" label="kou97ya" />
+      <node id="ghoeszh" label="ghoeszh" />
+      <node id="tobatkumat888" label="tobatkumat888" />
+      <node id="okyonline" label="okyonline" />
+      <node id="sibatucadas" label="sibatucadas" />
+      <node id="linaa_aput" label="linaa_aput" />
+      <node id="wiindaa_16" label="wiindaa_16" />
+      <node id="likeinid" label="likeinid" />
+      <node id="utusanborneo" label="utusanborneo" />
+      <node id="eddesign_" label="eddesign_" />
+      <node id="sangaluonline" label="sangaluonline" />
+      <node id="yusbariyas" label="yusbariyas" />
+      <node id="renojulian" label="renojulian" />
+      <node id="theppisuaidi" label="theppisuaidi" />
+      <node id="bagassetya87" label="bagassetya87" />
+      <node id="abracadabram99" label="abracadabram99" />
+      <node id="kp_penyiaran" label="kp_penyiaran" />
+      <node id="alvinolulu" label="alvinolulu" />
+      <node id="kiflin_1989" label="kiflin_1989" />
+      <node id="gberrei" label="gberrei" />
+      <node id="imigrasi_bima" label="imigrasi_bima" />
+      <node id="mapaybandungcom" label="mapaybandungcom" />
+      <node id="treeletrikindo" label="treeletrikindo" />
+      <node id="1011mgtradio" label="1011mgtradio" />
+      <node id="fadhillakbar473" label="fadhillakbar473" />
+      <node id="jurnalmediaind1" label="jurnalmediaind1" />
+      <node id="pancingtoto" label="pancingtoto" />
+      <node id="tribunmaduracom" label="tribunmaduracom" />
+      <node id="daulainahmad" label="daulainahmad" />
+      <node id="gatotsuhiro" label="gatotsuhiro" />
+      <node id="trusted201" label="trusted201" />
+      <node id="nightinsectt" label="nightinsectt" />
+      <node id="gaidohasan" label="gaidohasan" />
+      <node id="bonsernewscom" label="bonsernewscom" />
+      <node id="media_asuransi" label="media_asuransi" />
+      <node id="ariefnjak" label="ariefnjak" />
+      <node id="artortoise_full" label="artortoise_full" />
+      <node id="crypto575858" label="crypto575858" />
+      <node id="jarrfajarr_" label="jarrfajarr_" />
+      <node id="963medanfm" label="963medanfm" />
+      <node id="fajarkurnianto" label="fajarkurnianto" />
+      <node id="khairul_amal7" label="khairul_amal7" />
+      <node id="wartakepri" label="wartakepri" />
+      <node id="tvonenews" label="tvonenews" />
+      <node id="rbc_sinergi" label="rbc_sinergi" />
+      <node id="c4hbanten" label="c4hbanten" />
+      <node id="bandarbola855_" label="bandarbola855_" />
+      <node id="iwaniwanely72" label="iwaniwanely72" />
+      <node id="detik_sulsel" label="detik_sulsel" />
+      <node id="lawarayam" label="lawarayam" />
+      <node id="fahrizahm24" label="fahrizahm24" />
+      <node id="adam_lalu80" label="adam_lalu80" />
+      <node id="ra_aminrs19" label="ra_aminrs19" />
+      <node id="brsidharta" label="brsidharta" />
+      <node id="siberwarta" label="siberwarta" />
+      <node id="deddyhariadi" label="deddyhariadi" />
+      <node id="yusrizal_i" label="yusrizal_i" />
+      <node id="rullyez1" label="rullyez1" />
+      <node id="siregar4692" label="siregar4692" />
+      <node id="wartacerdikindo" label="wartacerdikindo" />
+      <node id="andibachruddin" label="andibachruddin" />
+      <node id="rastafaris" label="rastafaris" />
+      <node id="prokabar" label="prokabar" />
+      <node id="warna_nusa" label="warna_nusa" />
+      <node id="cornerball_id" label="cornerball_id" />
+      <node id="vkook54632782" label="vkook54632782" />
+      <node id="nenk_priangan" label="nenk_priangan" />
+      <node id="apahabarjakarta" label="apahabarjakarta" />
+      <node id="berita_diy" label="berita_diy" />
+      <node id="giwangkaracom" label="giwangkaracom" />
+      <node id="marthinloren" label="marthinloren" />
+      <node id="inanewsindo" label="inanewsindo" />
+      <node id="mtriafbri_" label="mtriafbri_" />
+      <node id="abdullatif_be" label="abdullatif_be" />
+      <node id="inifaktam123" label="inifaktam123" />
+      <node id="aminah_71" label="aminah_71" />
+      <node id="iyan_benz" label="iyan_benz" />
+      <node id="andreasoctavius" label="andreasoctavius" />
+      <node id="indra_herlanda" label="indra_herlanda" />
+      <node id="tren512tren" label="tren512tren" />
+      <node id="langit7id" label="langit7id" />
+      <node id="rapmafmums" label="rapmafmums" />
+      <node id="lebakbansel" label="lebakbansel" />
+      <node id="line_lkh" label="line_lkh" />
+      <node id="rezakaisar3" label="rezakaisar3" />
+      <node id="juraganmuda28" label="juraganmuda28" />
+      <node id="kanwilsulteng" label="kanwilsulteng" />
+      <node id="hoitraderforex" label="hoitraderforex" />
+      <node id="nasdem" label="nasdem" />
+      <node id="bag1bagiberita" label="bag1bagiberita" />
+      <node id="esaprmna" label="esaprmna" />
+      <node id="abu_waras" label="abu_waras" />
+      <node id="sagaranesia" label="sagaranesia" />
+      <node id="iwanistic" label="iwanistic" />
+      <node id="tjel0up" label="tjel0up" />
+      <node id="bariq93360798" label="bariq93360798" />
+      <node id="lonewolftalking" label="lonewolftalking" />
+      <node id="jmanalu1" label="jmanalu1" />
+      <node id="hopsindonesia" label="hopsindonesia" />
+      <node id="affanibnani" label="affanibnani" />
+      <node id="sapabestie" label="sapabestie" />
+      <node id="kendarinformasi" label="kendarinformasi" />
+      <node id="xhindonesia" label="xhindonesia" />
+      <node id="newstagar" label="newstagar" />
+      <node id="chanelmuslimcom" label="chanelmuslimcom" />
+      <node id="mr_mediatv" label="mr_mediatv" />
+      <node id="maheerprad" label="maheerprad" />
+      <node id="wakjojos" label="wakjojos" />
+      <node id="bolasaljucom" label="bolasaljucom" />
+      <node id="897globalradio" label="897globalradio" />
+      <node id="hermanputra82" label="hermanputra82" />
+      <node id="jhn__26" label="jhn__26" />
+      <node id="getaranmy" label="getaranmy" />
+      <node id="poskotanetwork" label="poskotanetwork" />
+      <node id="vonberro" label="vonberro" />
+      <node id="romyjarr" label="romyjarr" />
+      <node id="pkuwarisan" label="pkuwarisan" />
+      <node id="rsudmakasongan" label="rsudmakasongan" />
+      <node id="saruny15_saruny" label="saruny15_saruny" />
+      <node id="riaarjiani" label="riaarjiani" />
+      <node id="amirejat" label="amirejat" />
+      <node id="genmedianetwork" label="genmedianetwork" />
+      <node id="hmsafrizalsh" label="hmsafrizalsh" />
+      <node id="ionliners" label="ionliners" />
+      <node id="teuku_desky" label="teuku_desky" />
+      <node id="tbsun4" label="tbsun4" />
+      <node id="terpantauid" label="terpantauid" />
+      <node id="dewharyo" label="dewharyo" />
+      <node id="monitorind" label="monitorind" />
+      <node id="skjn2025" label="skjn2025" />
+      <node id="kordanewscom" label="kordanewscom" />
+      <node id="posbakumpranaja" label="posbakumpranaja" />
+      <node id="pantau24jam" label="pantau24jam" />
+      <node id="368mbet" label="368mbet" />
+      <node id="wawanku08354672" label="wawanku08354672" />
+      <node id="hasanbasdian" label="hasanbasdian" />
+      <node id="ihsan_amar0" label="ihsan_amar0" />
+      <node id="elganggafm" label="elganggafm" />
+      <node id="lingkarmediane5" label="lingkarmediane5" />
+      <node id="kapolrestangkot" label="kapolrestangkot" />
+      <node id="mnctrijayabdg" label="mnctrijayabdg" />
+      <node id="cipondohhumas" label="cipondohhumas" />
+      <node id="iradiojakarta" label="iradiojakarta" />
+      <node id="pramborssmg" label="pramborssmg" />
+      <node id="media_linked" label="media_linked" />
+      <node id="jp_radarkudus" label="jp_radarkudus" />
+      <node id="baehavertz" label="baehavertz" />
+      <node id="fesbukbanten" label="fesbukbanten" />
+      <node id="indoinsidenews" label="indoinsidenews" />
+      <node id="gian_gians" label="gian_gians" />
+      <node id="rozali_azmi" label="rozali_azmi" />
+      <node id="newscokro" label="newscokro" />
+      <node id="bebasbaru" label="bebasbaru" />
+      <node id="antara_jateng" label="antara_jateng" />
+      <node id="nciimajnun" label="nciimajnun" />
+      <node id="onkey_dokey1423" label="onkey_dokey1423" />
+      <node id="pulpendid" label="pulpendid" />
+      <node id="trans7" label="trans7" />
+      <node id="indobet365" label="indobet365" />
+      <node id="noldy_v" label="noldy_v" />
+      <node id="nida_hernida" label="nida_hernida" />
+      <node id="idenesiaid" label="idenesiaid" />
+      <node id="fitrimaryana5" label="fitrimaryana5" />
+      <node id="al_kusnanto" label="al_kusnanto" />
+      <node id="cosmasroy" label="cosmasroy" />
+      <node id="idnjaya89" label="idnjaya89" />
+      <node id="franchisesfl" label="franchisesfl" />
+      <node id="lampungpost_" label="lampungpost_" />
+      <node id="dryeamer" label="dryeamer" />
+      <node id="restrotangkot" label="restrotangkot" />
+      <node id="arifky87" label="arifky87" />
+      <node id="ary_arsa" label="ary_arsa" />
+      <node id="xinwenmetrotv" label="xinwenmetrotv" />
+      <node id="officialinibaru" label="officialinibaru" />
+      <node id="rusydisyarif" label="rusydisyarif" />
+      <node id="soemada1" label="soemada1" />
+      <node id="kreatifsultanid" label="kreatifsultanid" />
+      <node id="sutiknopkb" label="sutiknopkb" />
+      <node id="188bet_id" label="188bet_id" />
+      <node id="wsdbolatv" label="wsdbolatv" />
+      <node id="fickhysongka" label="fickhysongka" />
+      <node id="humasrutansby" label="humasrutansby" />
+      <node id="tebe_lams" label="tebe_lams" />
+      <node id="alamismail" label="alamismail" />
+      <node id="tribunpontianak" label="tribunpontianak" />
+      <node id="heyimpeeja" label="heyimpeeja" />
+      <node id="dojun_jinn" label="dojun_jinn" />
+      <node id="gomak_purba" label="gomak_purba" />
+      <node id="voaindonesia" label="voaindonesia" />
+      <node id="achmadindange" label="achmadindange" />
+      <node id="cityguide911fm" label="cityguide911fm" />
+      <node id="bimataindonesia" label="bimataindonesia" />
+      <node id="dotsolutionnet" label="dotsolutionnet" />
+      <node id="mufli_setiawan_" label="mufli_setiawan_" />
+      <node id="malakatmall" label="malakatmall" />
+      <node id="infosumbar" label="infosumbar" />
+      <node id="adahanidisini" label="adahanidisini" />
+      <node id="muhamma11747097" label="muhamma11747097" />
+      <node id="bengkeltresno" label="bengkeltresno" />
+      <node id="501awani" label="501awani" />
+      <node id="moerdimar" label="moerdimar" />
+      <node id="xsansolo" label="xsansolo" />
+      <node id="ahsanmusthafa1" label="ahsanmusthafa1" />
+      <node id="vox_timor" label="vox_timor" />
+      <node id="fokusrembangcom" label="fokusrembangcom" />
+      <node id="miicies" label="miicies" />
+      <node id="paman82" label="paman82" />
+      <node id="yosriverth" label="yosriverth" />
+      <node id="badasstronout" label="badasstronout" />
+      <node id="wardisamme218" label="wardisamme218" />
+      <node id="stevenwjya743" label="stevenwjya743" />
+      <node id="kabar_sigercom" label="kabar_sigercom" />
+      <node id="o3nnhboqbkxzqnn" label="o3nnhboqbkxzqnn" />
+      <node id="mamatb_77" label="mamatb_77" />
+      <node id="galang__kun" label="galang__kun" />
+      <node id="idenews_id" label="idenews_id" />
+      <node id="katadatacoid" label="katadatacoid" />
+      <node id="ahsanfurqanib13" label="ahsanfurqanib13" />
+      <node id="pelaksanasini" label="pelaksanasini" />
+      <node id="parabolaku" label="parabolaku" />
+      <node id="naufalfauzan29" label="naufalfauzan29" />
+      <node id="abahkholiq_" label="abahkholiq_" />
+      <node id="nulesdotco" label="nulesdotco" />
+      <node id="fitrianiludvia" label="fitrianiludvia" />
+      <node id="melatyrini" label="melatyrini" />
+      <node id="indihomejkt" label="indihomejkt" />
+      <node id="bytrendzid" label="bytrendzid" />
+      <node id="rangamaru" label="rangamaru" />
+      <node id="klikanggaran" label="klikanggaran" />
+      <node id="prfmnews" label="prfmnews" />
+      <node id="heraldindo" label="heraldindo" />
+      <node id="heraldsulsel" label="heraldsulsel" />
+      <node id="deni1hidayat" label="deni1hidayat" />
+      <node id="hdproject55" label="hdproject55" />
+      <node id="usmanlonav" label="usmanlonav" />
+      <node id="patoni89" label="patoni89" />
+      <node id="tonaytoni1" label="tonaytoni1" />
+      <node id="azwrx" label="azwrx" />
+      <node id="been4q59" label="been4q59" />
+      <node id="bungachintya16" label="bungachintya16" />
+      <node id="nyomanparisada" label="nyomanparisada" />
+      <node id="bontang_barat" label="bontang_barat" />
+      <node id="lemonadeejuice" label="lemonadeejuice" />
+      <node id="bimaprawira" label="bimaprawira" />
+      <node id="istri_minsugaaa" label="istri_minsugaaa" />
+      <node id="mpotimesid" label="mpotimesid" />
+      <node id="03___nakula" label="03___nakula" />
+      <node id="riyadhinugraha" label="riyadhinugraha" />
+      <node id="ibn_syah68" label="ibn_syah68" />
+      <node id="reza_aputra13" label="reza_aputra13" />
+      <node id="fletchervette" label="fletchervette" />
+      <node id="shannonces" label="shannonces" />
+      <node id="jneyates" label="jneyates" />
+      <node id="ianhuntere" label="ianhuntere" />
+      <node id="brucewase" label="brucewase" />
+      <node id="cristinvip" label="cristinvip" />
+      <node id="jsmediaid" label="jsmediaid" />
+      <node id="petequinnse" label="petequinnse" />
+      <node id="kembarbola_" label="kembarbola_" />
+      <node id="beata48514053" label="beata48514053" />
+      <node id="fantasyslotxyz" label="fantasyslotxyz" />
+      <node id="jakartanewsid1" label="jakartanewsid1" />
+      <node id="danurussamsi051" label="danurussamsi051" />
+      <node id="memissyu" label="memissyu" />
+      <node id="chideesi" label="chideesi" />
+      <node id="pandaisme13" label="pandaisme13" />
+      <node id="fauzilaksya" label="fauzilaksya" />
+      <node id="gayabola" label="gayabola" />
+      <node id="anyway_football" label="anyway_football" />
+      <node id="uwainun" label="uwainun" />
+      <node id="dm_n4byl" label="dm_n4byl" />
+      <node id="sonorafm92" label="sonorafm92" />
+      <node id="beenews_media" label="beenews_media" />
+      <node id="samidur2024" label="samidur2024" />
+      <node id="tinewssofficial" label="tinewssofficial" />
+      <node id="fansclub99gacor" label="fansclub99gacor" />
+      <node id="kimida03" label="kimida03" />
+      <node id="eka_dutajaladri" label="eka_dutajaladri" />
+      <node id="infoka_id" label="infoka_id" />
+      <node id="sptnfzn_" label="sptnfzn_" />
+      <node id="karimatafm1033" label="karimatafm1033" />
+      <node id="toto_1984" label="toto_1984" />
+      <node id="silvyvyy_" label="silvyvyy_" />
+      <node id="ivan_wijayana" label="ivan_wijayana" />
+      <node id="qb1e_" label="qb1e_" />
+      <node id="dodiadibrani" label="dodiadibrani" />
+      <node id="prabu_rahwana" label="prabu_rahwana" />
+      <node id="mantrasukabumi_" label="mantrasukabumi_" />
+      <node id="samsariya_id" label="samsariya_id" />
+      <node id="heraldjabar" label="heraldjabar" />
+      <node id="darfiaji" label="darfiaji" />
+      <node id="msfarih" label="msfarih" />
+      <node id="jaseeeeeeee27" label="jaseeeeeeee27" />
+      <node id="totogelasia" label="totogelasia" />
+      <node id="mochammadrich" label="mochammadrich" />
+      <node id="iqbalchaqqi" label="iqbalchaqqi" />
+      <node id="dendyradityaa" label="dendyradityaa" />
+      <node id="novelhndr" label="novelhndr" />
+      <node id="mukhsin1924" label="mukhsin1924" />
+      <node id="koruptorbejato" label="koruptorbejato" />
+      <node id="tarosl0t" label="tarosl0t" />
+      <node id="tehkitaaja" label="tehkitaaja" />
+      <node id="antartlka" label="antartlka" />
+      <node id="newsarrahmah" label="newsarrahmah" />
+      <node id="fahmi20126218" label="fahmi20126218" />
+      <node id="herrysu24334740" label="herrysu24334740" />
+      <node id="cak_rie" label="cak_rie" />
+      <node id="infonusantaraid" label="infonusantaraid" />
+      <node id="tribunjogja" label="tribunjogja" />
+      <node id="faisaldo29" label="faisaldo29" />
+      <node id="intip24news" label="intip24news" />
+      <node id="ru9oez" label="ru9oez" />
+      <node id="petiknet" label="petiknet" />
+      <node id="bdgtimuronline" label="bdgtimuronline" />
+      <node id="jnskdr" label="jnskdr" />
+      <node id="firmanariq1" label="firmanariq1" />
+      <node id="arif_munandar95" label="arif_munandar95" />
+      <node id="nafisnba" label="nafisnba" />
+      <node id="cygahhafamily" label="cygahhafamily" />
+      <node id="mediapermata" label="mediapermata" />
+      <node id="iikabdul_90" label="iikabdul_90" />
+      <node id="julyanozzz" label="julyanozzz" />
+      <node id="csr_infopedia" label="csr_infopedia" />
+      <node id="yagadigi" label="yagadigi" />
+      <node id="davidhotmarisi" label="davidhotmarisi" />
+      <node id="55futsal_" label="55futsal_" />
+      <node id="podcast_tyler" label="podcast_tyler" />
+      <node id="mawarsandi1998" label="mawarsandi1998" />
+      <node id="chrislumen_" label="chrislumen_" />
+      <node id="yennyan91642232" label="yennyan91642232" />
+      <node id="vagkers" label="vagkers" />
+      <node id="detik60_" label="detik60_" />
+      <node id="donatlezat_" label="donatlezat_" />
+      <node id="pristsihombing" label="pristsihombing" />
+      <node id="ideatimesid" label="ideatimesid" />
+      <node id="hiumegalodon_" label="hiumegalodon_" />
+      <node id="babasbasyar" label="babasbasyar" />
+      <node id="mindsetviva" label="mindsetviva" />
+      <node id="widnyana96" label="widnyana96" />
+      <node id="awale77" label="awale77" />
+      <node id="ujungbotolsaos" label="ujungbotolsaos" />
+      <node id="iamgepe" label="iamgepe" />
+      <node id="yunusalfiyan88" label="yunusalfiyan88" />
+      <node id="polsek_denbar" label="polsek_denbar" />
+      <node id="alvarentalmobil" label="alvarentalmobil" />
+      <node id="dioetomo" label="dioetomo" />
+      <node id="henjiqwa" label="henjiqwa" />
+      <node id="saitanica" label="saitanica" />
+      <node id="norssss_" label="norssss_" />
+      <node id="merah_timur88" label="merah_timur88" />
+      <node id="trihanggodo1" label="trihanggodo1" />
+      <node id="nanda_prtm10" label="nanda_prtm10" />
+      <node id="z_soleh" label="z_soleh" />
+      <node id="acehkini" label="acehkini" />
+      <node id="ekaaldiha" label="ekaaldiha" />
+      <node id="rakhaachm" label="rakhaachm" />
+      <node id="pakyu_tweet" label="pakyu_tweet" />
+      <node id="erls_" label="erls_" />
+      <node id="widyonarko027" label="widyonarko027" />
+      <node id="clara_johana01" label="clara_johana01" />
+      <node id="samiur_rahman_z" label="samiur_rahman_z" />
+      <node id="nickomrlnd" label="nickomrlnd" />
+      <node id="ahmadhanan_15" label="ahmadhanan_15" />
+      <node id="adamyulfian99" label="adamyulfian99" />
+      <node id="94ma_dhani_" label="94ma_dhani_" />
+      <node id="rcyclebins" label="rcyclebins" />
+      <node id="kessakrisnan" label="kessakrisnan" />
+      <node id="saragi_luhut" label="saragi_luhut" />
+      <node id="fahmish__" label="fahmish__" />
+      <node id="iboenk_not" label="iboenk_not" />
+      <node id="galuhpr1927" label="galuhpr1927" />
+      <node id="polemdennylamlo" label="polemdennylamlo" />
+      <node id="teoteojing" label="teoteojing" />
+      <node id="indonesiancrush" label="indonesiancrush" />
+      <node id="lavilerio" label="lavilerio" />
+      <node id="fajarms__" label="fajarms__" />
+      <node id="af1_" label="af1_" />
+      <node id="y_ib1407" label="y_ib1407" />
+      <node id="souvenirsemesta" label="souvenirsemesta" />
+      <node id="asp13kk" label="asp13kk" />
+      <node id="seputarmura" label="seputarmura" />
+      <node id="arsak044" label="arsak044" />
+      <node id="andredwt_" label="andredwt_" />
+      <node id="riswantakdir" label="riswantakdir" />
+      <node id="w1razone" label="w1razone" />
+      <node id="ragiiiiiil" label="ragiiiiiil" />
+      <node id="benjolsambara" label="benjolsambara" />
+      <node id="logerhyucin345" label="logerhyucin345" />
+      <node id="faqih_zuhair" label="faqih_zuhair" />
+      <node id="yuliantoperdana" label="yuliantoperdana" />
+      <node id="commetrosulteng" label="commetrosulteng" />
+      <node id="themartasaputra" label="themartasaputra" />
+      <node id="iqbal41307792" label="iqbal41307792" />
+      <node id="miraamalka" label="miraamalka" />
+      <node id="yessaya__" label="yessaya__" />
+      <node id="sbspremium_" label="sbspremium_" />
+      <node id="adityarif__" label="adityarif__" />
+      <node id="parlaypastigol" label="parlaypastigol" />
+      <node id="yonasjou" label="yonasjou" />
+      <node id="asmara_naa" label="asmara_naa" />
+      <node id="rezhachaniago" label="rezhachaniago" />
+      <node id="dekswa11" label="dekswa11" />
+      <node id="frprayogo" label="frprayogo" />
+      <node id="beritaudaranews" label="beritaudaranews" />
+      <node id="kerajaany" label="kerajaany" />
+      <node id="mrqpli" label="mrqpli" />
+      <node id="chptrw" label="chptrw" />
+      <node id="stevevier" label="stevevier" />
+      <node id="arisharyantoo" label="arisharyantoo" />
+      <node id="_ailurophileeee" label="_ailurophileeee" />
+      <node id="choihee0on" label="choihee0on" />
+      <node id="kopibent" label="kopibent" />
+      <node id="dddidauw" label="dddidauw" />
+      <node id="liveskortv" label="liveskortv" />
+      <node id="3trian33" label="3trian33" />
+      <node id="amiramistader" label="amiramistader" />
+      <node id="aahmaadroozii" label="aahmaadroozii" />
+      <node id="mochsopiansauri" label="mochsopiansauri" />
+      <node id="athayaraihan_" label="athayaraihan_" />
+      <node id="fairuznaufal09" label="fairuznaufal09" />
+      <node id="pramestirima" label="pramestirima" />
+      <node id="nover_subing" label="nover_subing" />
+      <node id="notwibuyee" label="notwibuyee" />
+      <node id="jebingisjebing" label="jebingisjebing" />
+      <node id="tembokmall" label="tembokmall" />
+      <node id="rezaahamdaniii" label="rezaahamdaniii" />
+      <node id="indopolitika" label="indopolitika" />
+      <node id="renaldoaanugrah" label="renaldoaanugrah" />
+      <node id="dickynino23" label="dickynino23" />
+      <node id="zainulbari" label="zainulbari" />
+      <node id="nurvia_19" label="nurvia_19" />
+      <node id="rhayati02" label="rhayati02" />
+      <node id="aqil_______" label="aqil_______" />
+      <node id="percikanrindumu" label="percikanrindumu" />
+      <node id="apparlindungan" label="apparlindungan" />
+      <node id="panggilajajase" label="panggilajajase" />
+      <node id="igm521" label="igm521" />
+      <node id="jaya365ofc" label="jaya365ofc" />
+      <node id="salokoaryo" label="salokoaryo" />
+      <node id="kaa_gung" label="kaa_gung" />
+      <node id="bolang_beleng" label="bolang_beleng" />
+      <node id="udagidi" label="udagidi" />
+      <node id="ifvorja" label="ifvorja" />
+      <node id="sewaktucom" label="sewaktucom" />
+      <node id="rocknewsnetwork" label="rocknewsnetwork" />
+      <node id="48bolaid" label="48bolaid" />
+      <node id="sir_willsant" label="sir_willsant" />
+      <node id="bel_bijel" label="bel_bijel" />
+      <node id="irianyali" label="irianyali" />
+      <node id="pojok_makassar" label="pojok_makassar" />
+      <node id="adityadndy" label="adityadndy" />
+      <node id="yooggish" label="yooggish" />
+      <node id="marchfoward" label="marchfoward" />
+      <node id="prasetyobudi3" label="prasetyobudi3" />
+      <node id="divif3kostrad" label="divif3kostrad" />
+      <node id="sejahteraasia" label="sejahteraasia" />
+      <node id="uliviaisnawati" label="uliviaisnawati" />
+      <node id="hanifalfares" label="hanifalfares" />
+      <node id="smarterpam" label="smarterpam" />
+      <node id="alamnesia_in" label="alamnesia_in" />
+      <node id="hakimga2" label="hakimga2" />
+      <node id="radioelshinta" label="radioelshinta" />
+      <node id="bagikanberita" label="bagikanberita" />
+      <node id="azmanibrahim_" label="azmanibrahim_" />
+      <node id="mr_rsptra" label="mr_rsptra" />
+      <node id="w88indonesia1" label="w88indonesia1" />
+      <node id="furqon_nw" label="furqon_nw" />
+      <node id="pemukarakyatcom" label="pemukarakyatcom" />
+      <node id="ebong_07" label="ebong_07" />
+      <node id="cianjurtoday_" label="cianjurtoday_" />
+      <node id="imanfir35604355" label="imanfir35604355" />
+      <node id="novanvenged" label="novanvenged" />
+      <node id="ramacrab23" label="ramacrab23" />
+      <node id="lpnmuarasabak" label="lpnmuarasabak" />
+      <node id="alunberingin" label="alunberingin" />
+      <node id="big_ganz" label="big_ganz" />
+      <node id="efemer139" label="efemer139" />
+      <node id="sportchannel_id" label="sportchannel_id" />
+      <node id="marthinanan" label="marthinanan" />
+      <node id="ultimagz" label="ultimagz" />
+      <node id="hasan06108822" label="hasan06108822" />
+      <node id="ringoficialnews" label="ringoficialnews" />
+      <node id="dianalindia" label="dianalindia" />
+      <node id="tribunjatim" label="tribunjatim" />
+      <node id="tatajesss_" label="tatajesss_" />
+      <node id="syao00000" label="syao00000" />
+      <node id="radiosmartfm" label="radiosmartfm" />
+      <node id="dimplenamjon" label="dimplenamjon" />
+      <node id="insideradiojkt" label="insideradiojkt" />
+      <node id="astro_elka" label="astro_elka" />
+      <node id="loonainperfecto" label="loonainperfecto" />
+      <node id="arun_kelana" label="arun_kelana" />
+      <node id="desember_winnr" label="desember_winnr" />
+      <node id="ninjab3393syo" label="ninjab3393syo" />
+      <node id="strategi_id" label="strategi_id" />
+      <node id="dododadho" label="dododadho" />
+      <node id="fahrulafd" label="fahrulafd" />
+      <node id="a_djokovic11" label="a_djokovic11" />
+      <node id="jejakfaktacom" label="jejakfaktacom" />
+      <node id="ka_kuukk" label="ka_kuukk" />
+      <node id="annynoey" label="annynoey" />
+      <node id="egoekdamar" label="egoekdamar" />
+      <node id="vincipernoii" label="vincipernoii" />
+      <node id="gol_a_gong" label="gol_a_gong" />
+      <node id="tharadipta" label="tharadipta" />
+      <node id="richhan19" label="richhan19" />
+      <node id="wendaidg" label="wendaidg" />
+      <node id="endangrukmana16" label="endangrukmana16" />
+      <node id="_shitinoer" label="_shitinoer" />
+      <node id="sandonny88usman" label="sandonny88usman" />
+      <node id="dikadallyn" label="dikadallyn" />
+      <node id="linadiniajie" label="linadiniajie" />
+      <node id="rdwiasmara" label="rdwiasmara" />
+      <node id="waxkedk" label="waxkedk" />
+      <node id="sm_taha7" label="sm_taha7" />
+      <node id="u_dayn" label="u_dayn" />
+      <node id="oghiegigs" label="oghiegigs" />
+      <node id="pemujakritis" label="pemujakritis" />
+      <node id="yudiarif843" label="yudiarif843" />
+      <node id="wayvcabangui" label="wayvcabangui" />
+      <node id="tukang_koran77" label="tukang_koran77" />
+      <node id="lapangbolastats" label="lapangbolastats" />
+      <node id="hariankalbar" label="hariankalbar" />
+      <node id="phagar_simbolon" label="phagar_simbolon" />
+      <node id="sukurpamuji2" label="sukurpamuji2" />
+      <node id="rudiatyogi" label="rudiatyogi" />
+      <node id="willypujoh" label="willypujoh" />
+      <node id="husenpalopoatv" label="husenpalopoatv" />
+      <node id="anakdekan" label="anakdekan" />
+      <node id="infowarganet" label="infowarganet" />
+      <node id="shankagami" label="shankagami" />
+      <node id="masukkangoal" label="masukkangoal" />
+      <node id="aldo_hut19" label="aldo_hut19" />
+      <node id="ricomaziz" label="ricomaziz" />
+      <node id="denhg_31" label="denhg_31" />
+      <node id="tiuwtiw" label="tiuwtiw" />
+      <node id="iamevasetiyawan" label="iamevasetiyawan" />
+      <node id="rstnsyhaie" label="rstnsyhaie" />
+      <node id="adjie_djithuu" label="adjie_djithuu" />
+      <node id="skandalmedia" label="skandalmedia" />
+      <node id="haijoon_" label="haijoon_" />
+      <node id="andreasyona1601" label="andreasyona1601" />
+      <node id="yusuf" label="yusuf" />
+      <node id="indihomeborneo" label="indihomeborneo" />
+      <node id="DanarKurniawan" label="DanarKurniawan" />
+      <node id="Ve78584392" label="Ve78584392" />
+      <node id="gibran" label="gibran" />
+      <node id="ZDF" label="ZDF" />
+      <node id="wafiyqqqq" label="wafiyqqqq" />
+      <node id="jiwapagi" label="jiwapagi" />
+      <node id="bts" label="bts" />
+      <node id="SFT97JK" label="SFT97JK" />
+      <node id="Alpha" label="Alpha" />
+      <node id="dukeofbeduland" label="dukeofbeduland" />
+      <node id="aazzkkaa" label="aazzkkaa" />
+      <node id="pemberireceh" label="pemberireceh" />
+      <node id="wantooo" label="wantooo" />
+      <node id="htrcsm" label="htrcsm" />
+      <node id="FaktaSepakbola" label="FaktaSepakbola" />
+      <node id="GOAL" label="GOAL" />
+      <node id="yennywahid" label="yennywahid" />
+      <node id="SiaranBolaLive" label="SiaranBolaLive" />
+      <node id="Info" label="Info" />
+      <node id="caknundotcom" label="caknundotcom" />
+      <node id="MyMaiyahID" label="MyMaiyahID" />
+      <node id="maiyahan" label="maiyahan" />
+      <node id="mocopatsyafaat" label="mocopatsyafaat" />
+      <node id="kenduricinta" label="kenduricinta" />
+      <node id="gambangsyafaat" label="gambangsyafaat" />
+      <node id="BangbangWetan" label="BangbangWetan" />
+      <node id="padhangmbulan" label="padhangmbulan" />
+      <node id="Dennysiregar7" label="Dennysiregar7" />
+      <node id="YouTube" label="YouTube" />
+      <node id="ChatGPTBot" label="ChatGPTBot" />
+      <node id="richarlison97" label="richarlison97" />
+      <node id="Hilmi28" label="Hilmi28" />
+      <node id="FIFAcom" label="FIFAcom" />
+      <node id="fifamedia" label="fifamedia" />
+      <node id="eurofootcom" label="eurofootcom" />
+      <node id="subur88" label="subur88" />
+      <node id="javasyudha" label="javasyudha" />
+      <node id="DrAmalinaBakri" label="DrAmalinaBakri" />
+      <node id="tunnovv" label="tunnovv" />
+      <node id="Hegie" label="Hegie" />
+      <node id="PDRMsia" label="PDRMsia" />
+      <node id="aiceindonesia" label="aiceindonesia" />
+      <node id="10th" label="10th" />
+      <node id="fortunaid" label="fortunaid" />
+      <node id="FIFAWorldCup" label="FIFAWorldCup" />
+      <node id="malacookies" label="malacookies" />
+      <node id="milanirgi" label="milanirgi" />
+      <node id="neohistoria" label="neohistoria" />
+      <node id="jfelixdiaz" label="jfelixdiaz" />
+      <node id="AgusMagelangan" label="AgusMagelangan" />
+      <node id="EdwinSlot" label="EdwinSlot" />
+      <node id="hermawan" label="hermawan" />
+      <node id="afa" label="afa" />
+      <node id="lioscaloni" label="lioscaloni" />
+      <node id="theflankerID" label="theflankerID" />
+      <node id="Kumham" label="Kumham" />
+      <node id="NewsKemenkumham" label="NewsKemenkumham" />
+      <node id="FaisolAli2022" label="FaisolAli2022" />
+      <node id="Box2BoxBola" label="Box2BoxBola" />
+      <node id="GoogleNews" label="GoogleNews" />
+      <node id="sher" label="sher" />
+      <node id="AhmadFaisal" label="AhmadFaisal" />
+      <node id="LbsHanafi" label="LbsHanafi" />
+      <node id="registaco" label="registaco" />
+      <node id="lihinshoo" label="lihinshoo" />
+      <node id="dwnews" label="dwnews" />
+      <node id="kisbet" label="kisbet" />
+      <node id="meltdownbytori" label="meltdownbytori" />
+      <node id="erickthohir" label="erickthohir" />
+      <node id="semarak" label="semarak" />
+      <node id="kareljabirI" label="kareljabirI" />
+      <node id="BELLA" label="BELLA" />
+      <node id="DokterTifa" label="DokterTifa" />
+      <node id="ridwankamil" label="ridwankamil" />
+      <node id="PorosHalangID" label="PorosHalangID" />
+      <node id="elonmusk" label="elonmusk" />
+      <node id="TribunTravel" label="TribunTravel" />
+      <node id="afaseleccion" label="afaseleccion" />
+      <node id="AchrafHakimi" label="AchrafHakimi" />
+      <node id="leomessi" label="leomessi" />
+      <node id="FalconSportBar" label="FalconSportBar" />
+      <node id="BTS" label="BTS" />
+      <node id="detik" label="detik" />
+      <node id="HeriSuwondo2" label="HeriSuwondo2" />
+      <node id="TabraklariNih" label="TabraklariNih" />
+      <node id="qatar" label="qatar" />
+      <node id="cakimiNOW" label="cakimiNOW" />
+      <node id="affmecup" label="affmecup" />
+      <node id="swacinta" label="swacinta" />
+      <node id="upiLuthfi" label="upiLuthfi" />
+      <node id="deeplyingplay" label="deeplyingplay" />
+      <node id="satupersen" label="satupersen" />
+      <node id="TheSunFootball" label="TheSunFootball" />
+      <node id="ZUL" label="ZUL" />
+      <node id="PSIMJOGJA" label="PSIMJOGJA" />
+      <node id="bimasinung" label="bimasinung" />
+      <node id="kopetroberhad" label="kopetroberhad" />
+      <node id="SCTV" label="SCTV" />
+      <node id="Ieomessiok" label="Ieomessiok" />
+      <node id="KMbappe" label="KMbappe" />
+      <node id="Cristiano" label="Cristiano" />
+      <node id="ErlingHaaland" label="ErlingHaaland" />
+      <node id="24Ction" label="24Ction" />
+      <node id="aipsun" label="aipsun" />
+      <node id="terminal" label="terminal" />
+      <node id="null" label="null" />
+      <node id="GanjaranApp" label="GanjaranApp" />
+      <node id="messi" label="messi" />
+      <node id="WartaKepri" label="WartaKepri" />
+      <node id="fifaworldcup" label="fifaworldcup" />
+      <node id="Argentina" label="Argentina" />
+      <node id="WartaSiber" label="WartaSiber" />
+      <node id="abdurarsyad" label="abdurarsyad" />
+      <node id="Inanewsindo" label="Inanewsindo" />
+      <node id="pialaduniacup" label="pialaduniacup" />
+      <node id="ID" label="ID" />
+      <node id="ganjarpranowo" label="ganjarpranowo" />
+      <node id="Ganjar" label="Ganjar" />
+      <node id="PSSI" label="PSSI" />
+      <node id="Amb" label="Amb" />
+      <node id="equipedefrance" label="equipedefrance" />
+      <node id="lautaromartinez" label="lautaromartinez" />
+      <node id="charlieputh" label="charlieputh" />
+      <node id="NKRI" label="NKRI" />
+      <node id="mappirewa" label="mappirewa" />
+      <node id="aepsaefulfajar" label="aepsaefulfajar" />
+      <node id="indra" label="indra" />
+      <node id="ainunnajib" label="ainunnajib" />
+      <node id="Dickyjuve" label="Dickyjuve" />
+      <node id="mihrabku" label="mihrabku" />
+      <node id="TeamMessi" label="TeamMessi" />
+      <node id="ARGanteUE" label="ARGanteUE" />
+      <node id="MatunWong" label="MatunWong" />
+      <node id="MafiaWasit" label="MafiaWasit" />
+      <node id="budimandjatmiko" label="budimandjatmiko" />
+      <node id="CNNIndonesia" label="CNNIndonesia" />
+      <node id="VinoGBastian" label="VinoGBastian" />
+      <node id="piala" label="piala" />
+      <node id="love" label="love" />
+      <node id="fifa" label="fifa" />
+      <node id="emimartinezz1" label="emimartinezz1" />
+      <node id="radenrauf" label="radenrauf" />
+      <node id="v" label="v" />
+      <node id="WeAreMessi" label="WeAreMessi" />
+      <node id="barcastuff" label="barcastuff" />
+      <node id="Indopolitika" label="Indopolitika" />
+      <node id="argentina" label="argentina" />
+      <node id="Qatar" label="Qatar" />
+      <node id="puspentni" label="puspentni" />
+      <node id="tni" label="tni" />
+      <node id="penkostrad" label="penkostrad" />
+    </nodes>
+    <edges>
+      <edge source="idextratime" target="astika_123" id="0" />
+      <edge source="idextratime" target="fairuzfz29" id="1" />
+      <edge source="idextratime" target="mhmmdgiffary100" id="2" />
+      <edge source="idextratime" target="ndnurizki" id="3" />
+      <edge source="idextratime" target="arfanaprilday" id="4" />
+      <edge source="idextratime" target="ujangboy221" id="5" />
+      <edge source="idextratime" target="revonugroho" id="6" />
+      <edge source="idextratime" target="yoelismjuntak11" id="7" />
+      <edge source="idextratime" target="de_iphan" id="8" />
+      <edge source="idextratime" target="moge08" id="9" />
+      <edge source="idextratime" target="amrullah_acho" id="10" />
+      <edge source="idextratime" target="iyan_benz" id="11" />
+      <edge source="gusyusufchannel" target="yusuf" id="12" />
+      <edge source="meyvarizqia7_" target="indihomeborneo" id="13" />
+      <edge source="pikiran_rakyat" target="YouTube" id="14" />
+      <edge source="pikiran_rakyat" target="GoogleNews" id="15" />
+      <edge source="mojokdotco" target="AgusMagelangan" id="16" />
+      <edge source="ocepyosep" target="DanarKurniawan" id="17" />
+      <edge source="ocepyosep" target="Ve78584392" id="18" />
+      <edge source="ocepyosep" target="gibran" id="19" />
+      <edge source="gijnindonesia" target="ZDF" id="20" />
+      <edge source="duniabolasepakm" target="wafiyqqqq" id="21" />
+      <edge source="inilahdotcom" target="FIFAWorldCup" id="22" />
+      <edge source="liiamonday" target="jiwapagi" id="23" />
+      <edge source="kopi_ajah" target="bts" id="24" />
+      <edge source="sft99choiarin" target="SFT97JK" id="25" />
+      <edge source="astika_123" target="FaktaSepakbola" id="26" />
+      <edge source="box2boxbola" target="abdurarsyad" id="27" />
+      <edge source="notaboutslyther" target="Alpha" id="28" />
+      <edge source="kevin_vin100" target="dukeofbeduland" id="29" />
+      <edge source="kevin_vin100" target="aazzkkaa" id="30" />
+      <edge source="kevin_vin100" target="pemberireceh" id="31" />
+      <edge source="kevin_vin100" target="wantooo" id="32" />
+      <edge source="kevin_vin100" target="htrcsm" id="33" />
+      <edge source="kevin_vin100" target="FaktaSepakbola" id="34" />
+      <edge source="bugsbuddy71" target="GOAL" id="35" />
+      <edge source="infoseriyes" target="yennywahid" id="36" />
+      <edge source="prast_lampard" target="richarlison97" id="37" />
+      <edge source="bbgchoe" target="SiaranBolaLive" id="38" />
+      <edge source="ekingsnews" target="ekingsnews" id="39" />
+      <edge source="serambinews" target="serambinews" id="40" />
+      <edge source="serambinews" target="sharenewsaceh" id="41" />
+      <edge source="fairuzfz29" target="Info" id="42" />
+      <edge source="dsetia_" target="caknundotcom" id="43" />
+      <edge source="dsetia_" target="MyMaiyahID" id="44" />
+      <edge source="dsetia_" target="maiyahan" id="45" />
+      <edge source="dsetia_" target="mocopatsyafaat" id="46" />
+      <edge source="dsetia_" target="kenduricinta" id="47" />
+      <edge source="dsetia_" target="gambangsyafaat" id="48" />
+      <edge source="dsetia_" target="BangbangWetan" id="49" />
+      <edge source="dsetia_" target="padhangmbulan" id="50" />
+      <edge source="pepeppermana" target="Dennysiregar7" id="51" />
+      <edge source="yomeh9" target="SiaranBolaLive" id="52" />
+      <edge source="beritajatimcom" target="beritajatimcom" id="53" />
+      <edge source="detikcom" target="detik" id="54" />
+      <edge source="adnan_lakoro" target="YouTube" id="55" />
+      <edge source="jjkindonesia" target="BTS" id="56" />
+      <edge source="jjkindonesia" target="charlieputh" id="57" />
+      <edge source="stevenbrahma" target="ChatGPTBot" id="58" />
+      <edge source="udinkladoko" target="Hilmi28" id="59" />
+      <edge source="udinkladoko" target="FIFAcom" id="60" />
+      <edge source="udinkladoko" target="fifamedia" id="61" />
+      <edge source="adhitya_pr18" target="YouTube" id="62" />
+      <edge source="pahrimenang" target="eurofootcom" id="63" />
+      <edge source="subur88_ofc" target="subur88" id="64" />
+      <edge source="lazanoorca" target="javasyudha" id="65" />
+      <edge source="wanscahmams" target="YouTube" id="66" />
+      <edge source="hairul2003" target="DrAmalinaBakri" id="67" />
+      <edge source="mantanpegawaipt" target="SiaranBolaLive" id="68" />
+      <edge source="johnysibuea" target="tunnovv" id="69" />
+      <edge source="johnysibuea" target="Hegie" id="70" />
+      <edge source="bernamadotcom" target="PDRMsia" id="71" />
+      <edge source="infokespro" target="aiceindonesia" id="72" />
+      <edge source="infokespro" target="10th" id="73" />
+      <edge source="infokespro" target="fortunaid" id="74" />
+      <edge source="rastysantrindo" target="YouTube" id="75" />
+      <edge source="malacookies_bpp" target="FIFAWorldCup" id="76" />
+      <edge source="malacookies_bpp" target="malacookies" id="77" />
+      <edge source="mrbekalicky89" target="HeriSuwondo2" id="78" />
+      <edge source="mrbekalicky89" target="Ieomessiok" id="79" />
+      <edge source="mrbekalicky89" target="KMbappe" id="80" />
+      <edge source="mrbekalicky89" target="Cristiano" id="81" />
+      <edge source="mrbekalicky89" target="ErlingHaaland" id="82" />
+      <edge source="ndnurizki" target="milanirgi" id="83" />
+      <edge source="ndnurizki" target="neohistoria" id="84" />
+      <edge source="arfanaprilday" target="jfelixdiaz" id="85" />
+      <edge source="tribunmedan" target="tribunmedan" id="86" />
+      <edge source="setpiecer" target="FIFAWorldCup" id="87" />
+      <edge source="edwinslot_" target="EdwinSlot" id="88" />
+      <edge source="narutookunnn" target="hermawan" id="89" />
+      <edge source="jampsamalpi" target="YouTube" id="90" />
+      <edge source="id_korek" target="YouTube" id="91" />
+      <edge source="richardwps" target="afa" id="92" />
+      <edge source="richardwps" target="lioscaloni" id="93" />
+      <edge source="realmadridindo1" target="haritsenin" id="94" />
+      <edge source="realmadridindo1" target="_jktkops" id="95" />
+      <edge source="episciareptana" target="GOAL" id="96" />
+      <edge source="ariefpost" target="theflankerID" id="97" />
+      <edge source="ariefpost" target="FIFAWorldCup" id="98" />
+      <edge source="ariefpost" target="PorosHalangID" id="99" />
+      <edge source="rama74963392" target="Kumham" id="100" />
+      <edge source="rama74963392" target="NewsKemenkumham" id="101" />
+      <edge source="rama74963392" target="FaisolAli2022" id="102" />
+      <edge source="yudhaydh_" target="Box2BoxBola" id="103" />
+      <edge source="noushafarin1010" target="sher" id="104" />
+      <edge source="noushafarin1010" target="AhmadFaisal" id="105" />
+      <edge source="noushafarin1010" target="LbsHanafi" id="106" />
+      <edge source="noushafarin1010" target="registaco" id="107" />
+      <edge source="de_iphan" target="lihinshoo" id="108" />
+      <edge source="dw_indonesia" target="dwnews" id="109" />
+      <edge source="egaskalit" target="kisbet" id="110" />
+      <edge source="egaskalit" target="meltdownbytori" id="111" />
+      <edge source="akmalllmaulana" target="Kumham" id="112" />
+      <edge source="akmalllmaulana" target="NewsKemenkumham" id="113" />
+      <edge source="akmalllmaulana" target="FaisolAli2022" id="114" />
+      <edge source="fitri07348799" target="Kumham" id="115" />
+      <edge source="fitri07348799" target="NewsKemenkumham" id="116" />
+      <edge source="fitri07348799" target="FaisolAli2022" id="117" />
+      <edge source="_nusantaraku" target="erickthohir" id="118" />
+      <edge source="semarakredaksi" target="semarak" id="119" />
+      <edge source="bwinsandi3" target="erickthohir" id="120" />
+      <edge source="ibnumubarak00" target="Kumham" id="121" />
+      <edge source="ibnumubarak00" target="NewsKemenkumham" id="122" />
+      <edge source="ibnumubarak00" target="FaisolAli2022" id="123" />
+      <edge source="yahyamuh778" target="Kumham" id="124" />
+      <edge source="yahyamuh778" target="NewsKemenkumham" id="125" />
+      <edge source="yahyamuh778" target="FaisolAli2022" id="126" />
+      <edge source="muhamma47935224" target="Kumham" id="127" />
+      <edge source="muhamma47935224" target="NewsKemenkumham" id="128" />
+      <edge source="muhamma47935224" target="FaisolAli2022" id="129" />
+      <edge source="anitaanwar_" target="kisbet" id="130" />
+      <edge source="anitaanwar_" target="meltdownbytori" id="131" />
+      <edge source="markesso8" target="erickthohir" id="132" />
+      <edge source="xtrada_2004" target="kisbet" id="133" />
+      <edge source="xtrada_2004" target="meltdownbytori" id="134" />
+      <edge source="kaka01175473" target="FaktaSepakbola" id="135" />
+      <edge source="tribunbalikanal" target="tribunbalikanal" id="136" />
+      <edge source="abi_sasall" target="erickthohir" id="137" />
+      <edge source="erwinmalkomf" target="Kumham" id="138" />
+      <edge source="erwinmalkomf" target="NewsKemenkumham" id="139" />
+      <edge source="erwinmalkomf" target="FaisolAli2022" id="140" />
+      <edge source="benyzamrony" target="kareljabirI" id="141" />
+      <edge source="benyzamrony" target="BELLA" id="142" />
+      <edge source="benyzamrony" target="DokterTifa" id="143" />
+      <edge source="lukmana232380" target="ridwankamil" id="144" />
+      <edge source="kumham_sulbar" target="Kumham" id="145" />
+      <edge source="kumham_sulbar" target="NewsKemenkumham" id="146" />
+      <edge source="kumham_sulbar" target="FaisolAli2022" id="147" />
+      <edge source="gelang_alit2" target="erickthohir" id="148" />
+      <edge source="gelang_alit2" target="FIFAWorldCup" id="149" />
+      <edge source="kompascom" target="radiosmartfm" id="150" />
+      <edge source="aisyahnrl2" target="Kumham" id="151" />
+      <edge source="aisyahnrl2" target="NewsKemenkumham" id="152" />
+      <edge source="aisyahnrl2" target="FaisolAli2022" id="153" />
+      <edge source="irwanba64242854" target="elonmusk" id="154" />
+      <edge source="sniperdroen_" target="erickthohir" id="155" />
+      <edge source="kharisma700" target="erickthohir" id="156" />
+      <edge source="rutanpasangkayu" target="Kumham" id="157" />
+      <edge source="rutanpasangkayu" target="NewsKemenkumham" id="158" />
+      <edge source="rutanpasangkayu" target="FaisolAli2022" id="159" />
+      <edge source="irfan54533269" target="Kumham" id="160" />
+      <edge source="irfan54533269" target="NewsKemenkumham" id="161" />
+      <edge source="irfan54533269" target="FaisolAli2022" id="162" />
+      <edge source="djantjik" target="erickthohir" id="163" />
+      <edge source="ibnuhaj26560457" target="Kumham" id="164" />
+      <edge source="ibnuhaj26560457" target="NewsKemenkumham" id="165" />
+      <edge source="ibnuhaj26560457" target="FaisolAli2022" id="166" />
+      <edge source="tribuntravel" target="TribunTravel" id="167" />
+      <edge source="diditharianto" target="afaseleccion" id="168" />
+      <edge source="indosiar" target="SCTV" id="169" />
+      <edge source="mpon_mponn" target="erickthohir" id="170" />
+      <edge source="bam13ang" target="AchrafHakimi" id="171" />
+      <edge source="zhymme" target="erickthohir" id="172" />
+      <edge source="sctv" target="c4hbanten" id="173" />
+      <edge source="dido_fr" target="Kumham" id="174" />
+      <edge source="dido_fr" target="NewsKemenkumham" id="175" />
+      <edge source="dido_fr" target="FaisolAli2022" id="176" />
+      <edge source="kabarjogosatru" target="leomessi" id="177" />
+      <edge source="nongkrong_gaul" target="FalconSportBar" id="178" />
+      <edge source="nongkrong_gaul" target="terminal" id="179" />
+      <edge source="emqynx" target="TabraklariNih" id="180" />
+      <edge source="banyuasin16" target="qatar" id="181" />
+      <edge source="yohanesnicolau7" target="cakimiNOW" id="182" />
+      <edge source="comofcindonesia" target="FIFAWorldCup" id="183" />
+      <edge source="dino_sutan" target="affmecup" id="184" />
+      <edge source="dieksetyadhi" target="registaco" id="185" />
+      <edge source="anothermissoh" target="swacinta" id="186" />
+      <edge source="sotobuaya" target="upiLuthfi" id="187" />
+      <edge source="sotobuaya" target="deeplyingplay" id="188" />
+      <edge source="ohhrilla" target="satupersen" id="189" />
+      <edge source="amrullah_acho" target="TheSunFootball" id="190" />
+      <edge source="wisesa2024" target="ridwankamil" id="191" />
+      <edge source="dyahnezza" target="ZUL" id="192" />
+      <edge source="psim_culture29" target="PSIMJOGJA" id="193" />
+      <edge source="psim_culture29" target="bimasinung" id="194" />
+      <edge source="mohd__shahmi" target="kopetroberhad" id="195" />
+      <edge source="doneh" target="kisbet" id="196" />
+      <edge source="doneh" target="meltdownbytori" id="197" />
+      <edge source="lovinuramr" target="YouTube" id="198" />
+      <edge source="fahmiakbarami7" target="24Ction" id="199" />
+      <edge source="chwiminie_milov" target="BTS" id="200" />
+      <edge source="hi_gone" target="kisbet" id="201" />
+      <edge source="hi_gone" target="aipsun" id="202" />
+      <edge source="hi_gone" target="meltdownbytori" id="203" />
+      <edge source="phandhekhok" target="kisbet" id="204" />
+      <edge source="phandhekhok" target="meltdownbytori" id="205" />
+      <edge source="exomalaysia_" target="null" id="206" />
+      <edge source="flonadayaang" target="kisbet" id="207" />
+      <edge source="flonadayaang" target="meltdownbytori" id="208" />
+      <edge source="okyonline" target="kisbet" id="209" />
+      <edge source="okyonline" target="meltdownbytori" id="210" />
+      <edge source="linaa_aput" target="GanjaranApp" id="211" />
+      <edge source="wiindaa_16" target="kisbet" id="212" />
+      <edge source="wiindaa_16" target="meltdownbytori" id="213" />
+      <edge source="bagassetya87" target="FIFAWorldCup" id="214" />
+      <edge source="bagassetya87" target="Cristiano" id="215" />
+      <edge source="bagassetya87" target="messi" id="216" />
+      <edge source="bagassetya87" target="KMbappe" id="217" />
+      <edge source="alvinolulu" target="Dennysiregar7" id="218" />
+      <edge source="gberrei" target="FaktaSepakbola" id="219" />
+      <edge source="tribunmaduracom" target="tribunmaduracom" id="220" />
+      <edge source="wartakepri" target="WartaKepri" id="221" />
+      <edge source="wartakepri" target="YouTube" id="222" />
+      <edge source="c4hbanten" target="fifaworldcup" id="223" />
+      <edge source="c4hbanten" target="qatar" id="224" />
+      <edge source="adam_lalu80" target="Argentina" id="225" />
+      <edge source="siberwarta" target="WartaSiber" id="226" />
+      <edge source="deddyhariadi" target="kisbet" id="227" />
+      <edge source="deddyhariadi" target="meltdownbytori" id="228" />
+      <edge source="siregar4692" target="kisbet" id="229" />
+      <edge source="siregar4692" target="meltdownbytori" id="230" />
+      <edge source="inanewsindo" target="Inanewsindo" id="231" />
+      <edge source="inanewsindo" target="pialaduniacup" id="232" />
+      <edge source="rezakaisar3" target="ID" id="233" />
+      <edge source="nasdem" target="Argentina" id="234" />
+      <edge source="iwanistic" target="FIFAWorldCup" id="235" />
+      <edge source="bariq93360798" target="ganjarpranowo" id="236" />
+      <edge source="bariq93360798" target="Ganjar" id="237" />
+      <edge source="affanibnani" target="PSSI" id="238" />
+      <edge source="mr_mediatv" target="Amb" id="239" />
+      <edge source="teuku_desky" target="SiaranBolaLive" id="240" />
+      <edge source="franchisesfl" target="leomessi" id="241" />
+      <edge source="kreatifsultanid" target="afaseleccion" id="242" />
+      <edge source="kreatifsultanid" target="equipedefrance" id="243" />
+      <edge source="alamismail" target="lautaromartinez" id="244" />
+      <edge source="alamismail" target="leomessi" id="245" />
+      <edge source="alamismail" target="afaseleccion" id="246" />
+      <edge source="tribunpontianak" target="YouTube" id="247" />
+      <edge source="tribunpontianak" target="tribunpontianak" id="248" />
+      <edge source="mufli_setiawan_" target="Kumham" id="249" />
+      <edge source="mufli_setiawan_" target="NewsKemenkumham" id="250" />
+      <edge source="mufli_setiawan_" target="FaisolAli2022" id="251" />
+      <edge source="infosumbar" target="infosumbar" id="252" />
+      <edge source="muhamma11747097" target="YouTube" id="253" />
+      <edge source="ahsanmusthafa1" target="cakimiNOW" id="254" />
+      <edge source="miicies" target="erickthohir" id="255" />
+      <edge source="wardisamme218" target="equipedefrance" id="256" />
+      <edge source="wardisamme218" target="aiceindonesia" id="257" />
+      <edge source="idenews_id" target="FIFAWorldCup" id="258" />
+      <edge source="idenews_id" target="FIFAcom" id="259" />
+      <edge source="idenews_id" target="afa" id="260" />
+      <edge source="idenews_id" target="Dennysiregar7" id="261" />
+      <edge source="idenews_id" target="NKRI" id="262" />
+      <edge source="idenews_id" target="mappirewa" id="263" />
+      <edge source="idenews_id" target="aepsaefulfajar" id="264" />
+      <edge source="idenews_id" target="indra" id="265" />
+      <edge source="pelaksanasini" target="ainunnajib" id="266" />
+      <edge source="deni1hidayat" target="qatar" id="267" />
+      <edge source="deni1hidayat" target="FIFAcom" id="268" />
+      <edge source="tonaytoni1" target="erickthohir" id="269" />
+      <edge source="uwainun" target="Dickyjuve" id="270" />
+      <edge source="uwainun" target="mihrabku" id="271" />
+      <edge source="uwainun" target="elonmusk" id="272" />
+      <edge source="uwainun" target="TeamMessi" id="273" />
+      <edge source="uwainun" target="ARGanteUE" id="274" />
+      <edge source="uwainun" target="Argentina" id="275" />
+      <edge source="dm_n4byl" target="erickthohir" id="276" />
+      <edge source="mochammadrich" target="MatunWong" id="277" />
+      <edge source="mochammadrich" target="MafiaWasit" id="278" />
+      <edge source="faisaldo29" target="FaktaSepakbola" id="279" />
+      <edge source="yennyan91642232" target="budimandjatmiko" id="280" />
+      <edge source="yennyan91642232" target="CNNIndonesia" id="281" />
+      <edge source="hiumegalodon_" target="FaktaSepakbola" id="282" />
+      <edge source="alvarentalmobil" target="fifaworldcup" id="283" />
+      <edge source="z_soleh" target="leomessi" id="284" />
+      <edge source="ekaaldiha" target="VinoGBastian" id="285" />
+      <edge source="samiur_rahman_z" target="piala" id="286" />
+      <edge source="samiur_rahman_z" target="love" id="287" />
+      <edge source="samiur_rahman_z" target="fifaworldcup" id="288" />
+      <edge source="samiur_rahman_z" target="fifa" id="289" />
+      <edge source="94ma_dhani_" target="emimartinezz1" id="290" />
+      <edge source="rcyclebins" target="radenrauf" id="291" />
+      <edge source="kessakrisnan" target="v" id="292" />
+      <edge source="kessakrisnan" target="MafiaWasit" id="293" />
+      <edge source="saragi_luhut" target="WeAreMessi" id="294" />
+      <edge source="y_ib1407" target="messi" id="295" />
+      <edge source="aahmaadroozii" target="barcastuff" id="296" />
+      <edge source="notwibuyee" target="KMbappe" id="297" />
+      <edge source="indopolitika" target="Indopolitika" id="298" />
+      <edge source="renaldoaanugrah" target="argentina" id="299" />
+      <edge source="renaldoaanugrah" target="Qatar" id="300" />
+      <edge source="igm521" target="FIFAWorldCup" id="301" />
+      <edge source="pojok_makassar" target="KMbappe" id="302" />
+      <edge source="divif3kostrad" target="puspentni" id="303" />
+      <edge source="divif3kostrad" target="tni" id="304" />
+      <edge source="divif3kostrad" target="penkostrad" id="305" />
+      <edge source="divif3kostrad" target="divif3kostrad" id="306" />
+      <edge source="radioelshinta" target="FIFAWorldCup" id="307" />
+      <edge source="ultimagz" target="FIFAWorldCup" id="308" />
+      <edge source="arun_kelana" target="FaktaSepakbola" id="309" />
+      <edge source="a_djokovic11" target="qatar" id="310" />
+    </edges>
+  </graph>
+</gexf>
